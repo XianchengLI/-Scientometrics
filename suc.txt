@@ -1,0 +1,5537 @@
+{
+  "publications": {
+    "e": [
+      {
+        "ti": "instrumento livre para medidas de movimento",
+        "l": "en@@@pt",
+        "y": 2013,
+        "pt": "1",
+        "d": "2013-01-09",
+        "aa": [
+          {
+            "auId": 2112084192,
+            "auN": "norberto pena",
+            "dAuN": "Norberto Peña",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 1
+          },
+          {
+            "auId": 278543675,
+            "auN": "bruno cecilio credidio",
+            "dAuN": "Bruno Cecílio Credidio",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 2
+          },
+          {
+            "auId": 2130704013,
+            "auN": "lorena peixoto nogueira rodriguez martinez salles correa",
+            "dAuN": "Lorena Peixoto Nogueira Rodriguez Martinez Salles Corrêa",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 3
+          },
+          {
+            "auId": 2108467132,
+            "auN": "lucas gabriel souza franca",
+            "dAuN": "Lucas Gabriel Souza França",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 4
+          },
+          {
+            "auId": 2130618402,
+            "auN": "marcelo do vale cunha",
+            "dAuN": "Marcelo do Vale Cunha",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 5
+          },
+          {
+            "auId": 2116541431,
+            "auN": "marcos cavalcanti de sousa",
+            "dAuN": "Marcos Cavalcanti de Sousa",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 6
+          },
+          {
+            "auId": 2128989642,
+            "auN": "joao paulo bomfim cruz vieira",
+            "dAuN": "João Paulo Bomfim Cruz Vieira",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 7
+          },
+          {
+            "auId": 2133296962,
+            "auN": "jose garcia vivas miranda",
+            "dAuN": "José Garcia Vivas Miranda",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 8
+          }
+        ],
+        "rId": [
+          2125890869,
+          2075025801,
+          2053190665,
+          2054856424,
+          128157070,
+          1562813353,
+          1969491510,
+          2562801722,
+          2093126804,
+          2050797107,
+          2076612043,
+          2007859675,
+          2051963311
+        ],
+        "rwc": [
+          {
+            "rId": 2125890869
+          },
+          {
+            "rId": 2075025801
+          },
+          {
+            "rId": 2053190665
+          },
+          {
+            "rId": 2054856424
+          },
+          {
+            "rId": 128157070
+          },
+          {
+            "rId": 1562813353
+          },
+          {
+            "rId": 1969491510
+          },
+          {
+            "rId": 2562801722
+          },
+          {
+            "rId": 2093126804
+          },
+          {
+            "rId": 2050797107
+          },
+          {
+            "rId": 2076612043
+          },
+          {
+            "rId": 2007859675
+          },
+          {
+            "rId": 2051963311
+          }
+        ],
+        "j": {
+          "jId": 201467560,
+          "jn": "rev bras ensino fis"
+        },
+        "extended": {
+          "dn": "Instrumento livre para medidas de movimento",
+          "d": "This paper presents the validation of a computational tool that serves to obtain continuous measurements of moving objects. The software uses techniques of computer vision, pattern recognition and optical flow, to enable the tracking of objects in videos, generating data trajectory, velocity, acceleration and angular movement. The program was applied to track a ball around a simple pendulum. The methodology used for this validation takes as a basis for comparisons the measured values of the program as well as the theoretical values expected according to the model of a simple pendulum. The experiment is appropriate to the method because it was built within the limits of the linear harmonic oscillator, and energy losses due to friction had been minimized, making it the most ideal possible. The results indicate that the tool is sensitive and accurate. Deviations of less than a millimeter in the measurements of the trajectory ensure the applicability of the software on physics, either in research or in teaching topics.",
+          "ia": {
+            "indexLength": 162,
+            "invertedIndex": {
+              "this": [
+                0
+              ],
+              "paper": [
+                1
+              ],
+              "presents": [
+                2
+              ],
+              "the": [
+                3,
+                32,
+                70,
+                74,
+                79,
+                85,
+                96,
+                103,
+                106,
+                121,
+                129,
+                142,
+                145,
+                148,
+                151
+              ],
+              "validation": [
+                4,
+                63
+              ],
+              "of": [
+                5,
+                15,
+                22,
+                34,
+                73,
+                87,
+                105,
+                136,
+                144,
+                150
+              ],
+              "a": [
+                6,
+                52,
+                55,
+                66,
+                88,
+                139
+              ],
+              "computational": [
+                7
+              ],
+              "tool": [
+                8,
+                130
+              ],
+              "that": [
+                9,
+                128
+              ],
+              "serves": [
+                10
+              ],
+              "to": [
+                11,
+                30,
+                50,
+                84,
+                95,
+                114
+              ],
+              "obtain": [
+                12
+              ],
+              "continuous": [
+                13
+              ],
+              "measurements": [
+                14,
+                143
+              ],
+              "moving": [
+                16
+              ],
+              "objects.": [
+                17
+              ],
+              "the": [
+                18,
+                46,
+                58,
+                91,
+                125
+              ],
+              "software": [
+                19,
+                152
+              ],
+              "uses": [
+                20
+              ],
+              "techniques": [
+                21
+              ],
+              "computer": [
+                23
+              ],
+              "vision,": [
+                24
+              ],
+              "pattern": [
+                25
+              ],
+              "recognition": [
+                26
+              ],
+              "and": [
+                27,
+                43,
+                110,
+                133
+              ],
+              "optical": [
+                28
+              ],
+              "flow,": [
+                29
+              ],
+              "enable": [
+                31
+              ],
+              "tracking": [
+                33
+              ],
+              "objects": [
+                35
+              ],
+              "in": [
+                36,
+                141,
+                156,
+                159
+              ],
+              "videos,": [
+                37
+              ],
+              "generating": [
+                38
+              ],
+              "data": [
+                39
+              ],
+              "trajectory,": [
+                40
+              ],
+              "velocity,": [
+                41
+              ],
+              "acceleration": [
+                42
+              ],
+              "angular": [
+                44
+              ],
+              "movement.": [
+                45
+              ],
+              "program": [
+                47,
+                75
+              ],
+              "was": [
+                48,
+                100
+              ],
+              "applied": [
+                49
+              ],
+              "track": [
+                51
+              ],
+              "ball": [
+                53
+              ],
+              "around": [
+                54
+              ],
+              "simple": [
+                56,
+                89
+              ],
+              "pendulum.": [
+                57,
+                90
+              ],
+              "methodology": [
+                59
+              ],
+              "used": [
+                60
+              ],
+              "for": [
+                61,
+                68
+              ],
+              "this": [
+                62
+              ],
+              "takes": [
+                64
+              ],
+              "as": [
+                65,
+                76,
+                78
+              ],
+              "basis": [
+                67
+              ],
+              "comparisons": [
+                69
+              ],
+              "measured": [
+                71
+              ],
+              "values": [
+                72,
+                81
+              ],
+              "well": [
+                77
+              ],
+              "theoretical": [
+                80
+              ],
+              "expected": [
+                82
+              ],
+              "according": [
+                83
+              ],
+              "model": [
+                86
+              ],
+              "experiment": [
+                92
+              ],
+              "is": [
+                93,
+                131
+              ],
+              "appropriate": [
+                94
+              ],
+              "method": [
+                97
+              ],
+              "because": [
+                98
+              ],
+              "it": [
+                99,
+                120
+              ],
+              "built": [
+                101
+              ],
+              "within": [
+                102
+              ],
+              "limits": [
+                104
+              ],
+              "linear": [
+                107
+              ],
+              "harmonic": [
+                108
+              ],
+              "oscillator,": [
+                109
+              ],
+              "energy": [
+                111
+              ],
+              "losses": [
+                112
+              ],
+              "due": [
+                113
+              ],
+              "friction": [
+                115
+              ],
+              "had": [
+                116
+              ],
+              "been": [
+                117
+              ],
+              "minimized,": [
+                118
+              ],
+              "making": [
+                119
+              ],
+              "most": [
+                122
+              ],
+              "ideal": [
+                123
+              ],
+              "possible.": [
+                124
+              ],
+              "results": [
+                126
+              ],
+              "indicate": [
+                127
+              ],
+              "sensitive": [
+                132
+              ],
+              "accurate.": [
+                134
+              ],
+              "deviations": [
+                135
+              ],
+              "less": [
+                137
+              ],
+              "than": [
+                138
+              ],
+              "millimeter": [
+                140
+              ],
+              "trajectory": [
+                146
+              ],
+              "ensure": [
+                147
+              ],
+              "applicability": [
+                149
+              ],
+              "on": [
+                153
+              ],
+              "physics,": [
+                154
+              ],
+              "either": [
+                155
+              ],
+              "research": [
+                157
+              ],
+              "or": [
+                158
+              ],
+              "teaching": [
+                160
+              ],
+              "topics.": [
+                161
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 3,
+              "u": "http://www.scielo.br/pdf/rbef/v35n3/a24v35n3.pdf"
+            },
+            {
+              "ty": 1,
+              "u": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172013000300024"
+            },
+            {
+              "ty": 1,
+              "u": "http://www.readcube.com/articles/10.1590/S1806-11172013000300024"
+            }
+          ],
+          "vfn": "Revista Brasileira De Ensino De Fisica",
+          "v": 35,
+          "i": 3,
+          "fp": 1,
+          "lp": 5,
+          "doi": "10.1590/S1806-11172013000300024",
+          "anf": [
+            {
+              "fn": "Norberto",
+              "ln": "Peña",
+              "s": 1
+            },
+            {
+              "fn": "Bruno Cecílio",
+              "ln": "Credidio",
+              "s": 2
+            },
+            {
+              "fn": "Lorena Peixoto Nogueira Rodriguez Martinez Salles",
+              "ln": "Corrêa",
+              "s": 3
+            },
+            {
+              "fn": "Lucas Gabriel Souza",
+              "ln": "França",
+              "s": 4
+            },
+            {
+              "fn": "Marcelo do Vale",
+              "ln": "Cunha",
+              "s": 5
+            },
+            {
+              "fn": "Marcos Cavalcanti de",
+              "ln": "Sousa",
+              "s": 6
+            },
+            {
+              "fn": "João Paulo Bomfim Cruz",
+              "ln": "Vieira",
+              "s": 7
+            },
+            {
+              "fn": "José Garcia Vivas",
+              "ln": "Miranda",
+              "s": 8
+            }
+          ],
+          "bv": "Revista Brasileira De Ensino De Fisica",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 2037297093,
+        "weight": 19838,
+        "cc": 8,
+        "ecc": 8,
+        "logprob": -19.838,
+        "w": [
+          "instrumento",
+          "livre",
+          "medidas",
+          "movimento",
+          "para"
+        ]
+      },
+      {
+        "ti": "free instrument for movement measure",
+        "l": "en",
+        "y": 2013,
+        "pt": "0",
+        "d": "2013-06-29",
+        "aa": [
+          {
+            "auId": 2112084192,
+            "auN": "norberto pena",
+            "dAuN": "Norberto Peña",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 1
+          },
+          {
+            "auId": 278543675,
+            "auN": "bruno cecilio credidio",
+            "dAuN": "Bruno Cecílio Credidio",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 2
+          },
+          {
+            "auId": 2130704013,
+            "auN": "lorena peixoto nogueira rodriguez martinez salles correa",
+            "dAuN": "Lorena Peixoto Nogueira Rodriguez Martinez Salles Corrêa",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 3
+          },
+          {
+            "auId": 2108467132,
+            "auN": "lucas gabriel souza franca",
+            "dAuN": "Lucas Gabriel Souza França",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 4
+          },
+          {
+            "auId": 2130618402,
+            "auN": "marcelo do vale cunha",
+            "dAuN": "Marcelo do Vale Cunha",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 5
+          },
+          {
+            "auId": 2116541431,
+            "auN": "marcos cavalcanti de sousa",
+            "dAuN": "Marcos Cavalcanti de Sousa",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 6
+          },
+          {
+            "auId": 2128989642,
+            "auN": "joao paulo bomfim cruz vieira",
+            "dAuN": "João Paulo Bomfim Cruz Vieira",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 7
+          },
+          {
+            "auId": 2133296962,
+            "auN": "jose garcia vivas miranda",
+            "dAuN": "José Garcia Vivas Miranda",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 8
+          }
+        ],
+        "j": {
+          "jId": 2595646510,
+          "jn": "arxiv physics ins det"
+        },
+        "extended": {
+          "dn": "Free Instrument for Movement Measure",
+          "d": "This paper presents the validation of a computational tool that serves to obtain continuous measurements of moving objects. The software uses techniques of computer vision, pattern recognition and optical flow, to enable tracking of objects in videos, generating data trajectory, velocity, acceleration and angular movement. The program was applied to track a ball around a simple pendulum. The methodology used to validate it, taking as a basis to compare the values measured by the program, as well as the theoretical values expected according to the model of a simple pendulum. The experiment is appropriate to the method because it was built within the limits of the linear harmonic oscillator and energy losses due to friction had been minimized, making it the most ideal possible. The results indicate that the tool is sensitive and accurate. Deviations of less than a millimeter to the extent of the trajectory, ensures the applicability of the software on physics, whether in research or in teaching topics.",
+          "ia": {
+            "indexLength": 161,
+            "invertedIndex": {
+              "this": [
+                0
+              ],
+              "paper": [
+                1
+              ],
+              "presents": [
+                2
+              ],
+              "the": [
+                3,
+                69,
+                73,
+                78,
+                84,
+                95,
+                102,
+                105,
+                120,
+                128,
+                141,
+                144,
+                147,
+                150
+              ],
+              "validation": [
+                4
+              ],
+              "of": [
+                5,
+                15,
+                22,
+                33,
+                86,
+                104,
+                135,
+                143,
+                149
+              ],
+              "a": [
+                6,
+                51,
+                54,
+                65,
+                87,
+                138
+              ],
+              "computational": [
+                7
+              ],
+              "tool": [
+                8,
+                129
+              ],
+              "that": [
+                9,
+                127
+              ],
+              "serves": [
+                10
+              ],
+              "to": [
+                11,
+                30,
+                49,
+                60,
+                67,
+                83,
+                94,
+                113,
+                140
+              ],
+              "obtain": [
+                12
+              ],
+              "continuous": [
+                13
+              ],
+              "measurements": [
+                14
+              ],
+              "moving": [
+                16
+              ],
+              "objects.": [
+                17
+              ],
+              "the": [
+                18,
+                45,
+                57,
+                90,
+                124
+              ],
+              "software": [
+                19,
+                151
+              ],
+              "uses": [
+                20
+              ],
+              "techniques": [
+                21
+              ],
+              "computer": [
+                23
+              ],
+              "vision,": [
+                24
+              ],
+              "pattern": [
+                25
+              ],
+              "recognition": [
+                26
+              ],
+              "and": [
+                27,
+                42,
+                109,
+                132
+              ],
+              "optical": [
+                28
+              ],
+              "flow,": [
+                29
+              ],
+              "enable": [
+                31
+              ],
+              "tracking": [
+                32
+              ],
+              "objects": [
+                34
+              ],
+              "in": [
+                35,
+                155,
+                158
+              ],
+              "videos,": [
+                36
+              ],
+              "generating": [
+                37
+              ],
+              "data": [
+                38
+              ],
+              "trajectory,": [
+                39,
+                145
+              ],
+              "velocity,": [
+                40
+              ],
+              "acceleration": [
+                41
+              ],
+              "angular": [
+                43
+              ],
+              "movement.": [
+                44
+              ],
+              "program": [
+                46
+              ],
+              "was": [
+                47,
+                99
+              ],
+              "applied": [
+                48
+              ],
+              "track": [
+                50
+              ],
+              "ball": [
+                52
+              ],
+              "around": [
+                53
+              ],
+              "simple": [
+                55,
+                88
+              ],
+              "pendulum.": [
+                56,
+                89
+              ],
+              "methodology": [
+                58
+              ],
+              "used": [
+                59
+              ],
+              "validate": [
+                61
+              ],
+              "it,": [
+                62
+              ],
+              "taking": [
+                63
+              ],
+              "as": [
+                64,
+                75,
+                77
+              ],
+              "basis": [
+                66
+              ],
+              "compare": [
+                68
+              ],
+              "values": [
+                70,
+                80
+              ],
+              "measured": [
+                71
+              ],
+              "by": [
+                72
+              ],
+              "program,": [
+                74
+              ],
+              "well": [
+                76
+              ],
+              "theoretical": [
+                79
+              ],
+              "expected": [
+                81
+              ],
+              "according": [
+                82
+              ],
+              "model": [
+                85
+              ],
+              "experiment": [
+                91
+              ],
+              "is": [
+                92,
+                130
+              ],
+              "appropriate": [
+                93
+              ],
+              "method": [
+                96
+              ],
+              "because": [
+                97
+              ],
+              "it": [
+                98,
+                119
+              ],
+              "built": [
+                100
+              ],
+              "within": [
+                101
+              ],
+              "limits": [
+                103
+              ],
+              "linear": [
+                106
+              ],
+              "harmonic": [
+                107
+              ],
+              "oscillator": [
+                108
+              ],
+              "energy": [
+                110
+              ],
+              "losses": [
+                111
+              ],
+              "due": [
+                112
+              ],
+              "friction": [
+                114
+              ],
+              "had": [
+                115
+              ],
+              "been": [
+                116
+              ],
+              "minimized,": [
+                117
+              ],
+              "making": [
+                118
+              ],
+              "most": [
+                121
+              ],
+              "ideal": [
+                122
+              ],
+              "possible.": [
+                123
+              ],
+              "results": [
+                125
+              ],
+              "indicate": [
+                126
+              ],
+              "sensitive": [
+                131
+              ],
+              "accurate.": [
+                133
+              ],
+              "deviations": [
+                134
+              ],
+              "less": [
+                136
+              ],
+              "than": [
+                137
+              ],
+              "millimeter": [
+                139
+              ],
+              "extent": [
+                142
+              ],
+              "ensures": [
+                146
+              ],
+              "applicability": [
+                148
+              ],
+              "on": [
+                152
+              ],
+              "physics,": [
+                153
+              ],
+              "whether": [
+                154
+              ],
+              "research": [
+                156
+              ],
+              "or": [
+                157
+              ],
+              "teaching": [
+                159
+              ],
+              "topics.": [
+                160
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 1,
+              "u": "https://arxiv.org/abs/1307.0155?context=physics.ins-det"
+            },
+            {
+              "ty": 1,
+              "u": "http://dblp.uni-trier.de/db/journals/corr/corr1307.html#PenaCCFCSVM13"
+            },
+            {
+              "ty": 1,
+              "u": "http://128.84.21.199/abs/1307.0155"
+            },
+            {
+              "ty": 1,
+              "u": "https://scirate.com/arxiv/1307.0155"
+            }
+          ],
+          "vfn": "arXiv: Instrumentation and Detectors",
+          "anf": [
+            {
+              "fn": "Norberto",
+              "ln": "Peña",
+              "s": 1
+            },
+            {
+              "fn": "Bruno Cecílio",
+              "ln": "Credidio",
+              "s": 2
+            },
+            {
+              "fn": "Lorena Peixoto Nogueira Rodriguez Martinez Salles",
+              "ln": "Corrêa",
+              "s": 3
+            },
+            {
+              "fn": "Lucas Gabriel Souza",
+              "ln": "França",
+              "s": 4
+            },
+            {
+              "fn": "Marcelo do Vale",
+              "ln": "Cunha",
+              "s": 5
+            },
+            {
+              "fn": "Marcos Cavalcanti de",
+              "ln": "Sousa",
+              "s": 6
+            },
+            {
+              "fn": "João Paulo Bomfim Cruz",
+              "ln": "Vieira",
+              "s": 7
+            },
+            {
+              "fn": "José Garcia Vivas",
+              "ln": "Miranda",
+              "s": 8
+            }
+          ],
+          "bv": "arXiv preprint arXiv:1307.0155",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 1937659378,
+        "weight": 23940,
+        "cc": 0,
+        "ecc": 0,
+        "logprob": -23.94,
+        "w": [
+          "free",
+          "instrument",
+          "measure",
+          "movement"
+        ]
+      }
+    ],
+    "m": {
+      "lt": "2",
+      "q": "papers by joao paulo bomfim cruz vieira",
+      "iq": "And(Ty='0',Composite(AA.AuId=2128989642))",
+      "sm": 0
+    }
+  },
+  "citations": {
+    "e": [
+      {
+        "ti": "viewing pain and happy faces elicited similar changes in postural body sway",
+        "l": "en",
+        "y": 2014,
+        "pt": "1",
+        "d": "2014-08-05",
+        "aa": [
+          {
+            "auId": 1941644378,
+            "auN": "juan gea",
+            "dAuN": "Juan Gea",
+            "afId": 134820265,
+            "afN": "spanish national research council",
+            "dAfN": "Spanish National Research Council",
+            "s": 1
+          },
+          {
+            "auId": 2128895679,
+            "auN": "miguel a munoz",
+            "dAuN": "Miguel A. Muñoz",
+            "afId": 173304897,
+            "afN": "university of granada",
+            "dAfN": "University of Granada",
+            "s": 2
+          },
+          {
+            "auId": 2427040204,
+            "auN": "isis da silva costa",
+            "dAuN": "Isis Costa",
+            "afId": 61383054,
+            "afN": "institute of health sciences",
+            "dAfN": "Institute of Health Sciences",
+            "s": 3
+          },
+          {
+            "auId": 2699966423,
+            "auN": "luis f ciria",
+            "dAuN": "Luís F. Ciria",
+            "s": 4
+          },
+          {
+            "auId": 2133296962,
+            "auN": "jose garcia vivas miranda",
+            "dAuN": "José G. V. Miranda",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 5
+          },
+          {
+            "auId": 2107981011,
+            "auN": "pedro montoya",
+            "dAuN": "Pedro Montoya",
+            "afId": 50441567,
+            "afN": "university of the balearic islands",
+            "dAfN": "University of the Balearic Islands",
+            "s": 6
+          }
+        ],
+        "f": [
+          {
+            "fId": 205068,
+            "fn": "face"
+          },
+          {
+            "fId": 105976826,
+            "fn": "behavior"
+          },
+          {
+            "fId": 58693492,
+            "fn": "neuroimaging"
+          },
+          {
+            "fId": 60644358,
+            "fn": "bioinformatics"
+          },
+          {
+            "fId": 86803240,
+            "fn": "biology"
+          }
+        ],
+        "rId": [
+          2167557160,
+          2037121244,
+          2113148331,
+          1977500242,
+          2600500166,
+          1595912963,
+          1462349324,
+          2151849583,
+          1997645774,
+          85091029,
+          2139981301,
+          1996845679,
+          2141115110,
+          2060323875,
+          2134983827,
+          2086040201,
+          2063414632,
+          1968358788,
+          2016377054,
+          1996603663,
+          2130684172,
+          1991142926,
+          2035417153,
+          2037297093,
+          2168958809,
+          1969319053,
+          2168839413,
+          2084472488,
+          2141114152,
+          2031174057,
+          2161454472,
+          2149401706,
+          2167341520,
+          2013836336,
+          2110256717,
+          2003186985
+        ],
+        "rwc": [
+          {
+            "rId": 2167557160
+          },
+          {
+            "rId": 2037121244
+          },
+          {
+            "rId": 2113148331
+          },
+          {
+            "rId": 1977500242
+          },
+          {
+            "rId": 2600500166
+          },
+          {
+            "rId": 1595912963
+          },
+          {
+            "rId": 1462349324
+          },
+          {
+            "rId": 2151849583
+          },
+          {
+            "rId": 1997645774
+          },
+          {
+            "rId": 85091029
+          },
+          {
+            "rId": 2139981301
+          },
+          {
+            "rId": 1996845679
+          },
+          {
+            "rId": 2141115110
+          },
+          {
+            "rId": 2060323875
+          },
+          {
+            "rId": 2134983827
+          },
+          {
+            "rId": 2086040201
+          },
+          {
+            "rId": 2063414632
+          },
+          {
+            "rId": 1968358788
+          },
+          {
+            "rId": 2016377054
+          },
+          {
+            "rId": 1996603663
+          },
+          {
+            "rId": 2130684172
+          },
+          {
+            "rId": 1991142926
+          },
+          {
+            "rId": 2035417153
+          },
+          {
+            "rId": 2037297093
+          },
+          {
+            "rId": 2168958809
+          },
+          {
+            "rId": 1969319053
+          },
+          {
+            "rId": 2168839413
+          },
+          {
+            "rId": 2084472488
+          },
+          {
+            "rId": 2141114152
+          },
+          {
+            "rId": 2031174057
+          },
+          {
+            "rId": 2161454472
+          },
+          {
+            "rId": 2149401706
+          },
+          {
+            "rId": 2167341520
+          },
+          {
+            "rId": 2013836336
+          },
+          {
+            "rId": 2110256717
+          },
+          {
+            "rId": 2003186985
+          }
+        ],
+        "j": {
+          "jId": 202381698,
+          "jn": "plos one"
+        },
+        "extended": {
+          "dn": "Viewing Pain and Happy Faces Elicited Similar Changes in Postural Body Sway",
+          "d": "Affective facial expressions are potent social cues that can induce relevant physiological changes, as well as behavioral dispositions in the observer. Previous studies have revealed that angry faces induced significant reductions in body sway as compared with neutral and happy faces, reflecting an avoidance behavioral tendency as freezing. The expression of pain is usually considered an unpleasant stimulus, but also a relevant cue for delivering effective care and social support. Nevertheless, there are few data about behavioral dispositions elicited by the observation of pain expressions in others. The aim of the present research was to evaluate approach–avoidance tendencies by using video recordings of postural body sway when participants were standing and observing facial expressions of pain, happy and neutral. We hypothesized that although pain faces would be rated as more unpleasant than the other faces, they would provoke significant changes in postural body sway as compared to neutral facial expressions. Forty healthy female volunteers (mean age 25) participated in the study. Amplitude of forward movements and backward movements in the anterior-posterior and medial-lateral axes were obtained. Statistical analyses revealed that pain faces were the most unpleasant stimuli, and that both happy and pain faces were more arousing than neutral ones. Happy and pain faces also elicited greater amplitude of body sway in the anterior-posterior axes as compared with neutral faces. In addition, significant positive correlations were found between body sway elicited by pain faces and pleasantness and empathic ratings, suggesting that changes in postural body sway elicited by pain faces might be associated with approach and cooperative behavioral responses.",
+          "ia": {
+            "indexLength": 259,
+            "invertedIndex": {
+              "affective": [
+                0
+              ],
+              "facial": [
+                1,
+                112,
+                148
+              ],
+              "expressions": [
+                2,
+                84,
+                113
+              ],
+              "are": [
+                3,
+                72
+              ],
+              "potent": [
+                4
+              ],
+              "social": [
+                5,
+                68
+              ],
+              "cues": [
+                6
+              ],
+              "that": [
+                7,
+                25,
+                121,
+                179,
+                188,
+                240
+              ],
+              "can": [
+                8
+              ],
+              "induce": [
+                9
+              ],
+              "relevant": [
+                10,
+                61
+              ],
+              "physiological": [
+                11
+              ],
+              "changes,": [
+                12
+              ],
+              "as": [
+                13,
+                15,
+                34,
+                46,
+                128,
+                144,
+                215
+              ],
+              "well": [
+                14
+              ],
+              "behavioral": [
+                16,
+                44,
+                76,
+                257
+              ],
+              "dispositions": [
+                17,
+                77
+              ],
+              "in": [
+                18,
+                31,
+                85,
+                140,
+                158,
+                168,
+                211,
+                242
+              ],
+              "the": [
+                19,
+                80,
+                90,
+                132,
+                159,
+                169,
+                183,
+                212
+              ],
+              "observer.": [
+                20
+              ],
+              "previous": [
+                21
+              ],
+              "studies": [
+                22
+              ],
+              "have": [
+                23
+              ],
+              "revealed": [
+                24,
+                178
+              ],
+              "angry": [
+                26
+              ],
+              "faces": [
+                27,
+                124,
+                181,
+                193,
+                203,
+                233,
+                249
+              ],
+              "induced": [
+                28
+              ],
+              "significant": [
+                29,
+                138,
+                222
+              ],
+              "reductions": [
+                30
+              ],
+              "body": [
+                32,
+                104,
+                142,
+                209,
+                228,
+                244
+              ],
+              "sway": [
+                33,
+                105,
+                143,
+                210,
+                229,
+                245
+              ],
+              "compared": [
+                35,
+                145,
+                216
+              ],
+              "with": [
+                36,
+                217,
+                253
+              ],
+              "neutral": [
+                37,
+                147,
+                198,
+                218
+              ],
+              "and": [
+                38,
+                67,
+                110,
+                117,
+                165,
+                171,
+                187,
+                191,
+                201,
+                234,
+                236,
+                255
+              ],
+              "happy": [
+                39,
+                116,
+                190
+              ],
+              "faces,": [
+                40,
+                134
+              ],
+              "reflecting": [
+                41
+              ],
+              "an": [
+                42,
+                55
+              ],
+              "avoidance": [
+                43
+              ],
+              "tendency": [
+                45
+              ],
+              "freezing.": [
+                47
+              ],
+              "the": [
+                48,
+                87
+              ],
+              "expression": [
+                49
+              ],
+              "of": [
+                50,
+                82,
+                89,
+                102,
+                114,
+                162,
+                208
+              ],
+              "pain": [
+                51,
+                83,
+                123,
+                180,
+                192,
+                202,
+                232,
+                248
+              ],
+              "is": [
+                52
+              ],
+              "usually": [
+                53
+              ],
+              "considered": [
+                54
+              ],
+              "unpleasant": [
+                56,
+                130,
+                185
+              ],
+              "stimulus,": [
+                57
+              ],
+              "but": [
+                58
+              ],
+              "also": [
+                59,
+                204
+              ],
+              "a": [
+                60
+              ],
+              "cue": [
+                62
+              ],
+              "for": [
+                63
+              ],
+              "delivering": [
+                64
+              ],
+              "effective": [
+                65
+              ],
+              "care": [
+                66
+              ],
+              "support.": [
+                69
+              ],
+              "nevertheless,": [
+                70
+              ],
+              "there": [
+                71
+              ],
+              "few": [
+                73
+              ],
+              "data": [
+                74
+              ],
+              "about": [
+                75
+              ],
+              "elicited": [
+                78,
+                205,
+                230,
+                246
+              ],
+              "by": [
+                79,
+                98,
+                231,
+                247
+              ],
+              "observation": [
+                81
+              ],
+              "others.": [
+                86
+              ],
+              "aim": [
+                88
+              ],
+              "present": [
+                91
+              ],
+              "research": [
+                92
+              ],
+              "was": [
+                93
+              ],
+              "to": [
+                94,
+                146
+              ],
+              "evaluate": [
+                95
+              ],
+              "approach–avoidance": [
+                96
+              ],
+              "tendencies": [
+                97
+              ],
+              "using": [
+                99
+              ],
+              "video": [
+                100
+              ],
+              "recordings": [
+                101
+              ],
+              "postural": [
+                103,
+                141,
+                243
+              ],
+              "when": [
+                106
+              ],
+              "participants": [
+                107
+              ],
+              "were": [
+                108,
+                174,
+                182,
+                194,
+                225
+              ],
+              "standing": [
+                109
+              ],
+              "observing": [
+                111
+              ],
+              "pain,": [
+                115
+              ],
+              "neutral.": [
+                118
+              ],
+              "we": [
+                119
+              ],
+              "hypothesized": [
+                120
+              ],
+              "although": [
+                122
+              ],
+              "would": [
+                125,
+                136
+              ],
+              "be": [
+                126,
+                251
+              ],
+              "rated": [
+                127
+              ],
+              "more": [
+                129,
+                195
+              ],
+              "than": [
+                131,
+                197
+              ],
+              "other": [
+                133
+              ],
+              "they": [
+                135
+              ],
+              "provoke": [
+                137
+              ],
+              "changes": [
+                139,
+                241
+              ],
+              "expressions.": [
+                149
+              ],
+              "forty": [
+                150
+              ],
+              "healthy": [
+                151
+              ],
+              "female": [
+                152
+              ],
+              "volunteers": [
+                153
+              ],
+              "(mean": [
+                154
+              ],
+              "age": [
+                155
+              ],
+              "25)": [
+                156
+              ],
+              "participated": [
+                157
+              ],
+              "study.": [
+                160
+              ],
+              "amplitude": [
+                161
+              ],
+              "forward": [
+                163
+              ],
+              "movements": [
+                164,
+                167
+              ],
+              "backward": [
+                166
+              ],
+              "anterior-posterior": [
+                170,
+                213
+              ],
+              "medial-lateral": [
+                172
+              ],
+              "axes": [
+                173,
+                214
+              ],
+              "obtained.": [
+                175
+              ],
+              "statistical": [
+                176
+              ],
+              "analyses": [
+                177
+              ],
+              "most": [
+                184
+              ],
+              "stimuli,": [
+                186
+              ],
+              "both": [
+                189
+              ],
+              "arousing": [
+                196
+              ],
+              "ones.": [
+                199
+              ],
+              "happy": [
+                200
+              ],
+              "greater": [
+                206
+              ],
+              "amplitude": [
+                207
+              ],
+              "faces.": [
+                219
+              ],
+              "in": [
+                220
+              ],
+              "addition,": [
+                221
+              ],
+              "positive": [
+                223
+              ],
+              "correlations": [
+                224
+              ],
+              "found": [
+                226
+              ],
+              "between": [
+                227
+              ],
+              "pleasantness": [
+                235
+              ],
+              "empathic": [
+                237
+              ],
+              "ratings,": [
+                238
+              ],
+              "suggesting": [
+                239
+              ],
+              "might": [
+                250
+              ],
+              "associated": [
+                252
+              ],
+              "approach": [
+                254
+              ],
+              "cooperative": [
+                256
+              ],
+              "responses.": [
+                258
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 3,
+              "u": "http://digibug.ugr.es/bitstream/10481/32869/1/Gea_HappyFaces.pdf"
+            },
+            {
+              "ty": 1,
+              "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4122445/"
+            },
+            {
+              "ty": 1,
+              "u": "http://digibug.ugr.es/handle/10481/32869"
+            },
+            {
+              "ty": 1,
+              "u": "http://paperity.org/p/60493333/viewing-pain-and-happy-faces-elicited-similar-changes-in-postural-body-sway"
+            },
+            {
+              "ty": 1,
+              "u": "http://europepmc.org/articles/PMC4122445"
+            },
+            {
+              "ty": 1,
+              "u": "http://dx.plos.org/10.1371/journal.pone.0104381"
+            },
+            {
+              "ty": 0,
+              "u": "http://europepmc.org/abstract/MED/25093727"
+            },
+            {
+              "ty": 0,
+              "u": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371/journal.pone.0104381&representation=PDF"
+            }
+          ],
+          "vfn": "PLOS ONE",
+          "v": 9,
+          "i": 8,
+          "doi": "10.1371/journal.pone.0104381",
+          "anf": [
+            {
+              "fn": "Juan",
+              "ln": "Gea",
+              "s": 1
+            },
+            {
+              "fn": "Miguel A.",
+              "ln": "Muñoz",
+              "s": 2
+            },
+            {
+              "fn": "Isis",
+              "ln": "Costa",
+              "s": 3
+            },
+            {
+              "fn": "Luís F.",
+              "ln": "Ciria",
+              "s": 4
+            },
+            {
+              "fn": "José G. V.",
+              "ln": "Miranda",
+              "s": 5
+            },
+            {
+              "fn": "Pedro",
+              "ln": "Montoya",
+              "s": 6
+            }
+          ],
+          "bv": "PLOS ONE",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 2066725723,
+        "weight": 21160,
+        "cc": 4,
+        "ecc": 4,
+        "logprob": -21.16,
+        "w": [
+          "body",
+          "changes",
+          "elicited",
+          "faces",
+          "happy",
+          "pain",
+          "postural",
+          "similar",
+          "sway",
+          "viewing"
+        ]
+      },
+      {
+        "ti": "effectiveness of aquatic therapy vs land based therapy for balance and pain in women with fibromyalgia a study protocol for a randomised controlled trial",
+        "l": "en",
+        "y": 2017,
+        "pt": "1",
+        "d": "2017-01-12",
+        "aa": [
+          {
+            "auId": 2579723653,
+            "auN": "sabela rivas neira",
+            "dAuN": "Sabela Rivas Neira",
+            "afId": 11019714,
+            "afN": "university of a coruna",
+            "dAfN": "University of A Coruña",
+            "s": 1
+          },
+          {
+            "auId": 2142726709,
+            "auN": "amelia pasqual marques",
+            "dAuN": "Amélia Pasqual Marques",
+            "afId": 227586296,
+            "afN": "american physical therapy association",
+            "dAfN": "American Physical Therapy Association",
+            "s": 2
+          },
+          {
+            "auId": 2572596469,
+            "auN": "irene pegito perez",
+            "dAuN": "Irene Pegito Pérez",
+            "afId": 11019714,
+            "afN": "university of a coruna",
+            "dAfN": "University of A Coruña",
+            "s": 3
+          },
+          {
+            "auId": 2580391913,
+            "auN": "ramon fernandez cervantes",
+            "dAuN": "Ramón Fernández Cervantes",
+            "afId": 11019714,
+            "afN": "university of a coruna",
+            "dAfN": "University of A Coruña",
+            "s": 4
+          },
+          {
+            "auId": 2575722579,
+            "auN": "jamile vivas costa",
+            "dAuN": "Jamile Vivas Costa",
+            "afId": 11019714,
+            "afN": "university of a coruna",
+            "dAfN": "University of A Coruña",
+            "s": 5
+          }
+        ],
+        "f": [
+          {
+            "fId": 43893838,
+            "fn": "sports medicine"
+          },
+          {
+            "fId": 198451711,
+            "fn": "rheumatology"
+          },
+          {
+            "fId": 107130276,
+            "fn": "epidemiology"
+          },
+          {
+            "fId": 99508421,
+            "fn": "physical medicine and rehabilitation"
+          },
+          {
+            "fId": 1862650,
+            "fn": "physical therapy"
+          },
+          {
+            "fId": 204787440,
+            "fn": "alternative medicine"
+          },
+          {
+            "fId": 142724271,
+            "fn": "pathology"
+          },
+          {
+            "fId": 126322002,
+            "fn": "internal medicine"
+          },
+          {
+            "fId": 71924100,
+            "fn": "medicine"
+          }
+        ],
+        "rId": [
+          2118202495,
+          2011932878,
+          2549613205,
+          2049056319,
+          2253364553,
+          2132309748,
+          1974704788,
+          2116516133,
+          2004008756,
+          1595021611,
+          2165844418,
+          1563098518,
+          2136021003,
+          2473039652,
+          2074122852,
+          2161237484,
+          2084982638,
+          2019169178,
+          2097637005,
+          2104611706,
+          1985199075,
+          2037297093,
+          1975774790,
+          2108791624,
+          2157045499,
+          2116182643,
+          1613366485,
+          2101076790,
+          2138111349,
+          2007446313,
+          2006187571,
+          2113380527,
+          2141508235,
+          2057103061,
+          2119754652,
+          357599795,
+          2522002907,
+          1496523816,
+          2053875443,
+          2314345835,
+          2072013504
+        ],
+        "rwc": [
+          {
+            "rId": 2118202495
+          },
+          {
+            "rId": 2011932878
+          },
+          {
+            "rId": 2549613205
+          },
+          {
+            "rId": 2049056319
+          },
+          {
+            "rId": 2253364553
+          },
+          {
+            "rId": 2132309748
+          },
+          {
+            "rId": 1974704788
+          },
+          {
+            "rId": 2116516133
+          },
+          {
+            "rId": 2004008756
+          },
+          {
+            "rId": 1595021611
+          },
+          {
+            "rId": 2165844418
+          },
+          {
+            "rId": 1563098518
+          },
+          {
+            "rId": 2136021003
+          },
+          {
+            "rId": 2473039652
+          },
+          {
+            "rId": 2074122852
+          },
+          {
+            "rId": 2161237484
+          },
+          {
+            "rId": 2084982638
+          },
+          {
+            "rId": 2019169178
+          },
+          {
+            "rId": 2097637005
+          },
+          {
+            "rId": 2104611706
+          },
+          {
+            "rId": 1985199075
+          },
+          {
+            "rId": 2037297093
+          },
+          {
+            "rId": 1975774790
+          },
+          {
+            "rId": 2108791624
+          },
+          {
+            "rId": 2157045499
+          },
+          {
+            "rId": 2116182643
+          },
+          {
+            "rId": 1613366485
+          },
+          {
+            "rId": 2101076790
+          },
+          {
+            "rId": 2138111349
+          },
+          {
+            "rId": 2007446313
+          },
+          {
+            "rId": 2006187571
+          },
+          {
+            "rId": 2113380527
+          },
+          {
+            "rId": 2141508235
+          },
+          {
+            "rId": 2057103061
+          },
+          {
+            "rId": 2119754652
+          },
+          {
+            "rId": 357599795
+          },
+          {
+            "rId": 2522002907
+          },
+          {
+            "rId": 1496523816
+          },
+          {
+            "rId": 2053875443
+          },
+          {
+            "rId": 2314345835
+          },
+          {
+            "rId": 2072013504
+          }
+        ],
+        "j": {
+          "jId": 35439863,
+          "jn": "bmc musculoskelet disord"
+        },
+        "extended": {
+          "dn": "Effectiveness of Aquatic Therapy vs Land-based Therapy for Balance and Pain in Women with Fibromyalgia: a study protocol for a randomised controlled trial",
+          "d": "Background  Fibromyalgia is a disease with an increasing incidence. It impairs the quality of life of patients and decreases their functional capacity. Aquatic therapy has already been used for managing the symptoms of this syndrome. However, aquatic therapy has only recently been introduced as a treatment modality for improving proprioception in fibromyalgia. The main objective of this study is to determine the effectiveness of two physiotherapy protocols, one in and one out of water, for improving balance and decreasing pain in women with fibromyalgia.   Methods/Design  The study protocol will be a single-blind randomised controlled trial. Forty women diagnosed with fibromyalgia will be randomly assigned into 2 groups: Aquatic Therapy ( n  = 20) or Land-based Therapy ( n  = 20). Both interventions include 60-min therapy sessions, structured into 4 sections: Warm-up, Proprioceptive Exercises, Stretching and Relaxation. These sessions will be carried out 3 times a week for 3 months. Primary outcomes are balance (static and dynamic) and pain (intensity and threshold). Secondary outcomes include functional balance, quality of life, quality of sleep, fatigue, self-confidence in balance and physical ability. Outcome measures will be evaluated at baseline, at the end of the 3-month intervention period, and 6-weeks post-treatment. Statistical analysis will be carried out using the SPSS 21.0 program for Windows and a significance level of  p  ≤ 0.05 will be used for all tests.   Discussion  This study protocol details two physiotherapy interventions in women with fibromyalgia to improve balance and decrease pain: aquatic therapy and land-based therapy. In current literature there is a lack of methodological rigour and a limited number of studies that describe physiotherapy protocols to manage fibromyalgia symptoms. High-quality scientific works are required to highlight physiotherapy as one of the most recommended treatment options for this syndrome.   Trial registration  Date of publication in ClinicalTrials.gov: 18/02/2016. ClinicalTrials.gov Identifier:  NCT02695875 .",
+          "ia": {
+            "indexLength": 313,
+            "invertedIndex": {
+              "abstract": [
+                0
+              ],
+              "background": [
+                3
+              ],
+              "fibromyalgia": [
+                5
+              ],
+              "is": [
+                6,
+                62,
+                258
+              ],
+              "a": [
+                7,
+                48,
+                97,
+                149,
+                215,
+                259,
+                265
+              ],
+              "disease": [
+                8
+              ],
+              "with": [
+                9,
+                86,
+                105,
+                241
+              ],
+              "an": [
+                10
+              ],
+              "increasing": [
+                11
+              ],
+              "incidence.": [
+                12
+              ],
+              "it": [
+                13
+              ],
+              "impairs": [
+                14
+              ],
+              "the": [
+                15,
+                34,
+                65,
+                191,
+                194,
+                208,
+                289
+              ],
+              "quality": [
+                16,
+                170,
+                173
+              ],
+              "of": [
+                17,
+                19,
+                36,
+                59,
+                67,
+                76,
+                171,
+                174,
+                193,
+                218,
+                261,
+                268,
+                288,
+                303
+              ],
+              "life": [
+                18
+              ],
+              "patients": [
+                20
+              ],
+              "and": [
+                21,
+                73,
+                81,
+                139,
+                158,
+                160,
+                163,
+                180,
+                198,
+                214,
+                246,
+                251,
+                264
+              ],
+              "decreases": [
+                22
+              ],
+              "their": [
+                23
+              ],
+              "functional": [
+                24,
+                168
+              ],
+              "capacity.": [
+                25
+              ],
+              "aquatic": [
+                26,
+                114
+              ],
+              "therapy": [
+                27,
+                41,
+                129,
+                250
+              ],
+              "has": [
+                28,
+                42
+              ],
+              "already": [
+                29
+              ],
+              "been": [
+                30,
+                45
+              ],
+              "used": [
+                31,
+                224
+              ],
+              "for": [
+                32,
+                51,
+                78,
+                151,
+                212,
+                225,
+                294
+              ],
+              "managing": [
+                33
+              ],
+              "symptoms": [
+                35
+              ],
+              "this": [
+                37,
+                60,
+                295
+              ],
+              "syndrome.": [
+                38,
+                296
+              ],
+              "however,": [
+                39
+              ],
+              "aquatic": [
+                40,
+                249
+              ],
+              "only": [
+                43
+              ],
+              "recently": [
+                44
+              ],
+              "introduced": [
+                46
+              ],
+              "as": [
+                47,
+                286
+              ],
+              "treatment": [
+                49,
+                292
+              ],
+              "modality": [
+                50
+              ],
+              "improving": [
+                52,
+                79
+              ],
+              "proprioception": [
+                53
+              ],
+              "in": [
+                54,
+                72,
+                84,
+                178,
+                239,
+                305
+              ],
+              "fibromyalgia.": [
+                55,
+                87
+              ],
+              "the": [
+                56,
+                92
+              ],
+              "main": [
+                57
+              ],
+              "objective": [
+                58
+              ],
+              "study": [
+                61,
+                93,
+                233
+              ],
+              "to": [
+                63,
+                243,
+                274,
+                283
+              ],
+              "determine": [
+                64
+              ],
+              "effectiveness": [
+                66
+              ],
+              "two": [
+                68,
+                236
+              ],
+              "physiotherapy": [
+                69,
+                237,
+                272,
+                285
+              ],
+              "protocols,": [
+                70
+              ],
+              "one": [
+                71,
+                74,
+                287
+              ],
+              "out": [
+                75,
+                146,
+                206
+              ],
+              "water,": [
+                77
+              ],
+              "balance": [
+                80,
+                156,
+                179,
+                245
+              ],
+              "decreasing": [
+                82
+              ],
+              "pain": [
+                83,
+                161
+              ],
+              "women": [
+                85,
+                103,
+                240
+              ],
+              "methods/Design": [
+                90
+              ],
+              "protocol": [
+                94,
+                234
+              ],
+              "will": [
+                95,
+                107,
+                143,
+                185,
+                203,
+                222
+              ],
+              "be": [
+                96,
+                108,
+                144,
+                186,
+                204,
+                223
+              ],
+              "single-blind": [
+                98
+              ],
+              "randomised": [
+                99
+              ],
+              "controlled": [
+                100
+              ],
+              "trial.": [
+                101
+              ],
+              "forty": [
+                102
+              ],
+              "diagnosed": [
+                104
+              ],
+              "fibromyalgia": [
+                106,
+                242,
+                276
+              ],
+              "randomly": [
+                109
+              ],
+              "assigned": [
+                110
+              ],
+              "into": [
+                111,
+                132
+              ],
+              "2": [
+                112
+              ],
+              "groups:": [
+                113
+              ],
+              "therapy": [
+                115,
+                121
+              ],
+              "(": [
+                116,
+                122
+              ],
+              "n": [
+                117,
+                123
+              ],
+              " = 20)": [
+                118
+              ],
+              "or": [
+                119
+              ],
+              "land-based": [
+                120
+              ],
+              " = 20).": [
+                124
+              ],
+              "both": [
+                125
+              ],
+              "interventions": [
+                126,
+                238
+              ],
+              "include": [
+                127,
+                167
+              ],
+              "60-min": [
+                128
+              ],
+              "sessions,": [
+                130
+              ],
+              "structured": [
+                131
+              ],
+              "4": [
+                133
+              ],
+              "sections:": [
+                134
+              ],
+              "warm-up,": [
+                135
+              ],
+              "proprioceptive": [
+                136
+              ],
+              "exercises,": [
+                137
+              ],
+              "stretching": [
+                138
+              ],
+              "relaxation.": [
+                140
+              ],
+              "these": [
+                141
+              ],
+              "sessions": [
+                142
+              ],
+              "carried": [
+                145,
+                205
+              ],
+              "3": [
+                147
+              ],
+              "times": [
+                148
+              ],
+              "week": [
+                150
+              ],
+              "3 months.": [
+                152
+              ],
+              "primary": [
+                153
+              ],
+              "outcomes": [
+                154,
+                166
+              ],
+              "are": [
+                155,
+                281
+              ],
+              "(static": [
+                157
+              ],
+              "dynamic)": [
+                159
+              ],
+              "(intensity": [
+                162
+              ],
+              "threshold).": [
+                164
+              ],
+              "secondary": [
+                165
+              ],
+              "balance,": [
+                169
+              ],
+              "life,": [
+                172
+              ],
+              "sleep,": [
+                175
+              ],
+              "fatigue,": [
+                176
+              ],
+              "self-confidence": [
+                177
+              ],
+              "physical": [
+                181
+              ],
+              "ability.": [
+                182
+              ],
+              "outcome": [
+                183
+              ],
+              "measures": [
+                184
+              ],
+              "evaluated": [
+                187
+              ],
+              "at": [
+                188,
+                190
+              ],
+              "baseline,": [
+                189
+              ],
+              "end": [
+                192
+              ],
+              "3-month": [
+                195
+              ],
+              "intervention": [
+                196
+              ],
+              "period,": [
+                197
+              ],
+              "6-weeks": [
+                199
+              ],
+              "post-treatment.": [
+                200
+              ],
+              "statistical": [
+                201
+              ],
+              "analysis": [
+                202
+              ],
+              "using": [
+                207
+              ],
+              "spss": [
+                209
+              ],
+              "21.0": [
+                210
+              ],
+              "program": [
+                211
+              ],
+              "windows": [
+                213
+              ],
+              "significance": [
+                216
+              ],
+              "level": [
+                217
+              ],
+              "p": [
+                220
+              ],
+              " ≤ 0.05": [
+                221
+              ],
+              "all": [
+                226
+              ],
+              "tests.": [
+                227
+              ],
+              "discussion": [
+                230
+              ],
+              "this": [
+                232
+              ],
+              "details": [
+                235
+              ],
+              "improve": [
+                244
+              ],
+              "decrease": [
+                247
+              ],
+              "pain:": [
+                248
+              ],
+              "land-based": [
+                252
+              ],
+              "therapy.": [
+                253
+              ],
+              "in": [
+                254
+              ],
+              "current": [
+                255
+              ],
+              "literature": [
+                256
+              ],
+              "there": [
+                257
+              ],
+              "lack": [
+                260
+              ],
+              "methodological": [
+                262
+              ],
+              "rigour": [
+                263
+              ],
+              "limited": [
+                266
+              ],
+              "number": [
+                267
+              ],
+              "studies": [
+                269
+              ],
+              "that": [
+                270
+              ],
+              "describe": [
+                271
+              ],
+              "protocols": [
+                273
+              ],
+              "manage": [
+                275
+              ],
+              "symptoms.": [
+                277
+              ],
+              "high-quality": [
+                278
+              ],
+              "scientific": [
+                279
+              ],
+              "works": [
+                280
+              ],
+              "required": [
+                282
+              ],
+              "highlight": [
+                284
+              ],
+              "most": [
+                290
+              ],
+              "recommended": [
+                291
+              ],
+              "options": [
+                293
+              ],
+              "trial": [
+                299
+              ],
+              "registration": [
+                300
+              ],
+              "date": [
+                302
+              ],
+              "publication": [
+                304
+              ],
+              "clinicalTrials.gov:": [
+                306
+              ],
+              "18/02/2016.": [
+                307
+              ],
+              "clinicalTrials.gov": [
+                308
+              ],
+              "identifier:": [
+                309
+              ],
+              "ncT02695875": [
+                311
+              ],
+              ".": [
+                312
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 3,
+              "u": "https://link.springer.com/content/pdf/10.1186%2Fs12891-016-1364-5.pdf"
+            },
+            {
+              "ty": 3,
+              "u": "http://bmcmusculoskeletdisord.biomedcentral.com/track/pdf/10.1186/s12891-016-1364-5?site=bmcmusculoskeletdisord.biomedcentral.com"
+            },
+            {
+              "ty": 1,
+              "u": "http://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-016-1364-5"
+            },
+            {
+              "ty": 1,
+              "u": "http://www.producao.usp.br/handle/BDPI/51194"
+            },
+            {
+              "ty": 1,
+              "u": "http://pesquisa.bvsalud.org/portal/resource/pt/mdl-28103853"
+            },
+            {
+              "ty": 1,
+              "u": "https://0-bmcmusculoskeletdisord.biomedcentral.com.brum.beds.ac.uk/articles/10.1186/s12891-016-1364-5"
+            },
+            {
+              "ty": 1,
+              "u": "http://ruc.udc.es/dspace/handle/2183/18326"
+            },
+            {
+              "ty": 0,
+              "u": "http://link.springer.com/content/pdf/10.1186/s12891-016-1364-5.pdf"
+            }
+          ],
+          "vfn": "BMC Musculoskeletal Disorders",
+          "v": 18,
+          "i": 1,
+          "fp": 22,
+          "doi": "10.1186/s12891-016-1364-5",
+          "anf": [
+            {
+              "fn": "Sabela Rivas",
+              "ln": "Neira",
+              "s": 1
+            },
+            {
+              "fn": "Amélia Pasqual",
+              "ln": "Marques",
+              "s": 2
+            },
+            {
+              "fn": "Irene Pegito",
+              "ln": "Pérez",
+              "s": 3
+            },
+            {
+              "fn": "Ramón Fernández",
+              "ln": "Cervantes",
+              "s": 4
+            },
+            {
+              "fn": "Jamile Vivas",
+              "ln": "Costa",
+              "s": 5
+            }
+          ],
+          "bv": "BMC Musculoskeletal Disorders",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 2577179553,
+        "weight": 21832,
+        "cc": 1,
+        "ecc": 1,
+        "logprob": -21.832,
+        "w": [
+          "aquatic",
+          "balance",
+          "controlled",
+          "effectiveness",
+          "fibromyalgia",
+          "land",
+          "pain",
+          "protocol",
+          "randomised",
+          "therapy",
+          "trial",
+          "vs",
+          "women"
+        ]
+      },
+      {
+        "ti": "altered functional performance in patients with fibromyalgia",
+        "l": "en",
+        "y": 2017,
+        "pt": "1",
+        "d": "2017-01-26",
+        "aa": [
+          {
+            "auId": 2427040204,
+            "auN": "isis da silva costa",
+            "dAuN": "Isis da Silva Costa",
+            "afId": 61383054,
+            "afN": "institute of health sciences",
+            "dAfN": "Institute of Health Sciences",
+            "s": 1
+          },
+          {
+            "auId": 2586073110,
+            "auN": "antoni gamundi",
+            "dAuN": "Antoni Gamundí",
+            "afId": 61383054,
+            "afN": "institute of health sciences",
+            "dAfN": "Institute of Health Sciences",
+            "s": 2
+          },
+          {
+            "auId": 2718097018,
+            "auN": "jose g vivas miranda",
+            "dAuN": "José G. Vivas Miranda",
+            "s": 3
+          },
+          {
+            "auId": 2108467132,
+            "auN": "lucas gabriel souza franca",
+            "dAuN": "Lucas G. Souza França",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 4
+          },
+          {
+            "auId": 2342726367,
+            "auN": "charles novaes de santana",
+            "dAuN": "Charles Novaes De Santana",
+            "afId": 202697423,
+            "afN": "university of zurich",
+            "dAfN": "University of Zurich",
+            "s": 5
+          },
+          {
+            "auId": 2107981011,
+            "auN": "pedro montoya",
+            "dAuN": "Pedro Montoya",
+            "afId": 61383054,
+            "afN": "institute of health sciences",
+            "dAfN": "Institute of Health Sciences",
+            "s": 6
+          }
+        ],
+        "f": [
+          {
+            "fId": 96835011,
+            "fn": "hurst exponent"
+          },
+          {
+            "fId": 151800584,
+            "fn": "gait"
+          },
+          {
+            "fId": 168031717,
+            "fn": "balance"
+          },
+          {
+            "fId": 99508421,
+            "fn": "physical medicine and rehabilitation"
+          },
+          {
+            "fId": 1862650,
+            "fn": "physical therapy"
+          },
+          {
+            "fId": 204787440,
+            "fn": "alternative medicine"
+          },
+          {
+            "fId": 15744967,
+            "fn": "psychology"
+          }
+        ],
+        "rId": [
+          2049056319,
+          2099093791,
+          2116516133,
+          2127113745,
+          2004008756,
+          2109218006,
+          2044951073,
+          2165844418,
+          1563098518,
+          2346744058,
+          18427948,
+          2118959203,
+          1824036340,
+          2084498871,
+          2006525048,
+          2113835821,
+          2097637005,
+          2054803212,
+          2065649431,
+          1854477947,
+          2125835738,
+          2097166998,
+          1996868077,
+          2115845674,
+          1980007447,
+          2037297093,
+          2135042674,
+          1984312132,
+          2075539596,
+          2171828785,
+          2031351879,
+          2416620075,
+          2028215769,
+          171780804,
+          2413980742,
+          2018366934,
+          2124377717,
+          1972632355,
+          2101076790,
+          2136675521,
+          2100512809,
+          2058930877,
+          1966599874,
+          2060458009,
+          2151617214,
+          2066725723,
+          2402601892,
+          2278111363,
+          2092681786
+        ],
+        "rwc": [
+          {
+            "rId": 2049056319
+          },
+          {
+            "rId": 2099093791
+          },
+          {
+            "rId": 2116516133
+          },
+          {
+            "rId": 2127113745
+          },
+          {
+            "rId": 2004008756
+          },
+          {
+            "rId": 2109218006
+          },
+          {
+            "rId": 2044951073
+          },
+          {
+            "rId": 2165844418
+          },
+          {
+            "rId": 1563098518
+          },
+          {
+            "rId": 2346744058
+          },
+          {
+            "rId": 18427948
+          },
+          {
+            "rId": 2118959203
+          },
+          {
+            "rId": 1824036340
+          },
+          {
+            "rId": 2084498871
+          },
+          {
+            "rId": 2006525048
+          },
+          {
+            "rId": 2113835821
+          },
+          {
+            "rId": 2097637005
+          },
+          {
+            "rId": 2054803212
+          },
+          {
+            "rId": 2065649431
+          },
+          {
+            "rId": 1854477947
+          },
+          {
+            "rId": 2125835738
+          },
+          {
+            "rId": 2097166998
+          },
+          {
+            "rId": 1996868077
+          },
+          {
+            "rId": 2115845674
+          },
+          {
+            "rId": 1980007447
+          },
+          {
+            "rId": 2037297093
+          },
+          {
+            "rId": 2135042674
+          },
+          {
+            "rId": 1984312132
+          },
+          {
+            "rId": 2075539596
+          },
+          {
+            "rId": 2171828785
+          },
+          {
+            "rId": 2031351879
+          },
+          {
+            "rId": 2416620075
+          },
+          {
+            "rId": 2028215769
+          },
+          {
+            "rId": 171780804
+          },
+          {
+            "rId": 2413980742
+          },
+          {
+            "rId": 2018366934
+          },
+          {
+            "rId": 2124377717
+          },
+          {
+            "rId": 1972632355
+          },
+          {
+            "rId": 2101076790
+          },
+          {
+            "rId": 2136675521
+          },
+          {
+            "rId": 2100512809
+          },
+          {
+            "rId": 2058930877
+          },
+          {
+            "rId": 1966599874
+          },
+          {
+            "rId": 2060458009
+          },
+          {
+            "rId": 2151617214
+          },
+          {
+            "rId": 2066725723
+          },
+          {
+            "rId": 2402601892
+          },
+          {
+            "rId": 2278111363
+          },
+          {
+            "rId": 2092681786
+          }
+        ],
+        "j": {
+          "jId": 146364893,
+          "jn": "front hum neurosci"
+        },
+        "extended": {
+          "dn": "Altered Functional Performance in Patients with Fibromyalgia",
+          "d": "Fibromyalgia is a common chronic pain condition that exerts a considerable impact on patients' daily activities and quality of life. / Objectives: The main objective of the present study was to evaluate kinematic parameters of gait, functional performance, and balance in women with fibromyalgia syndrome. / Methods: The study included 26 female patients with fibromyalgia (49.2 ± 8.0 years) according to the criteria of the American College of Rheumatology, as well as 16 pain-free women (43.5 ± 8.5 years). Gait and balance parameters were extracted from video recordings of participants performing several motor tasks. Non-linear dynamic of body sway time series was also analyzed by computing the Hurst exponent. In addition, functional performance and clinical pain were obtained by using standardized motor tests (Berg's balance scale, 6-min walking test, timed up and go task, Romberg's balance test) and self-report questionnaires (Fibromyalgia Impact Questionnaire). / Results: Walking speed was significantly diminished (p < 0.001) in FM patients as compared to pain-free controls, probably due to significant reductions in stride length (p < 0.001) and cycle frequency (p < 0.001). Analyses of balance also revealed significant differences between fibromyalgia and pain-free controls on body sway in the medial-lateral and anterior-posterior axes (all ps < 0.01). Several parameters of gait and balance were significantly associated with high levels of pain, depression, stiffness, anxiety, and fatigue in fibromyalgia. / Conclusion: Our data revealed that both gait and balance were severely impaired in FM, and that subjective complaints associated with FM could contribute to functional disability in these patients. These findings suggest that optimal rehabilitation and fall prevention in fibromyalgia require a comprehensive assessment of both psychological responses to pain and physical impairments during postural control and gait.",
+          "ia": {
+            "indexLength": 283,
+            "invertedIndex": {
+              "fibromyalgia": [
+                0
+              ],
+              "is": [
+                1
+              ],
+              "a": [
+                2,
+                9,
+                266
+              ],
+              "common": [
+                3
+              ],
+              "chronic": [
+                4
+              ],
+              "pain": [
+                5,
+                115,
+                274
+              ],
+              "condition": [
+                6
+              ],
+              "that": [
+                7,
+                229,
+                240,
+                257
+              ],
+              "exerts": [
+                8
+              ],
+              "considerable": [
+                10
+              ],
+              "impact": [
+                11
+              ],
+              "on": [
+                12,
+                190
+              ],
+              "patients'": [
+                13
+              ],
+              "daily": [
+                14
+              ],
+              "activities": [
+                15
+              ],
+              "and": [
+                16,
+                38,
+                80,
+                113,
+                131,
+                137,
+                172,
+                187,
+                196,
+                207,
+                220,
+                232,
+                239,
+                260,
+                275,
+                281
+              ],
+              "quality": [
+                17
+              ],
+              "of": [
+                18,
+                25,
+                34,
+                63,
+                67,
+                88,
+                96,
+                179,
+                205,
+                215,
+                269
+              ],
+              "life.": [
+                19
+              ],
+              "/": [
+                20,
+                45,
+                143,
+                224
+              ],
+              "objectives:": [
+                21
+              ],
+              "the": [
+                22,
+                47
+              ],
+              "main": [
+                23
+              ],
+              "objective": [
+                24
+              ],
+              "the": [
+                26,
+                61,
+                64,
+                106,
+                194
+              ],
+              "present": [
+                27
+              ],
+              "study": [
+                28,
+                48
+              ],
+              "was": [
+                29,
+                101,
+                147
+              ],
+              "to": [
+                30,
+                60,
+                158,
+                163,
+                248,
+                273
+              ],
+              "evaluate": [
+                31
+              ],
+              "kinematic": [
+                32
+              ],
+              "parameters": [
+                33,
+                82,
+                204
+              ],
+              "gait,": [
+                35
+              ],
+              "functional": [
+                36,
+                111,
+                249
+              ],
+              "performance,": [
+                37
+              ],
+              "balance": [
+                39,
+                81,
+                124,
+                135,
+                180,
+                208,
+                233
+              ],
+              "in": [
+                40,
+                153,
+                166,
+                193,
+                222,
+                237,
+                251,
+                263
+              ],
+              "women": [
+                41,
+                74
+              ],
+              "with": [
+                42,
+                53,
+                212,
+                244
+              ],
+              "fibromyalgia": [
+                43,
+                54,
+                186,
+                264
+              ],
+              "syndrome.": [
+                44
+              ],
+              "methods:": [
+                46
+              ],
+              "included": [
+                49
+              ],
+              "26": [
+                50
+              ],
+              "female": [
+                51
+              ],
+              "patients": [
+                52,
+                155
+              ],
+              "(49.2": [
+                55
+              ],
+              "±": [
+                56,
+                76
+              ],
+              "8.0": [
+                57
+              ],
+              "years)": [
+                58
+              ],
+              "according": [
+                59
+              ],
+              "criteria": [
+                62
+              ],
+              "american": [
+                65
+              ],
+              "college": [
+                66
+              ],
+              "rheumatology,": [
+                68
+              ],
+              "as": [
+                69,
+                71,
+                156
+              ],
+              "well": [
+                70
+              ],
+              "16": [
+                72
+              ],
+              "pain-free": [
+                73,
+                159,
+                188
+              ],
+              "(43.5": [
+                75
+              ],
+              "8.5": [
+                77
+              ],
+              "years).": [
+                78
+              ],
+              "gait": [
+                79
+              ],
+              "were": [
+                83,
+                116,
+                209,
+                234
+              ],
+              "extracted": [
+                84
+              ],
+              "from": [
+                85
+              ],
+              "video": [
+                86
+              ],
+              "recordings": [
+                87
+              ],
+              "participants": [
+                89
+              ],
+              "performing": [
+                90
+              ],
+              "several": [
+                91
+              ],
+              "motor": [
+                92,
+                121
+              ],
+              "tasks.": [
+                93
+              ],
+              "non-linear": [
+                94
+              ],
+              "dynamic": [
+                95
+              ],
+              "body": [
+                97,
+                191
+              ],
+              "sway": [
+                98,
+                192
+              ],
+              "time": [
+                99
+              ],
+              "series": [
+                100
+              ],
+              "also": [
+                102,
+                181
+              ],
+              "analyzed": [
+                103
+              ],
+              "by": [
+                104,
+                118
+              ],
+              "computing": [
+                105
+              ],
+              "hurst": [
+                107
+              ],
+              "exponent.": [
+                108
+              ],
+              "in": [
+                109
+              ],
+              "addition,": [
+                110
+              ],
+              "performance": [
+                112
+              ],
+              "clinical": [
+                114
+              ],
+              "obtained": [
+                117
+              ],
+              "using": [
+                119
+              ],
+              "standardized": [
+                120
+              ],
+              "tests": [
+                122
+              ],
+              "(Berg's": [
+                123
+              ],
+              "scale,": [
+                125
+              ],
+              "6-min": [
+                126
+              ],
+              "walking": [
+                127
+              ],
+              "test,": [
+                128
+              ],
+              "timed": [
+                129
+              ],
+              "up": [
+                130
+              ],
+              "go": [
+                132
+              ],
+              "task,": [
+                133
+              ],
+              "romberg's": [
+                134
+              ],
+              "test)": [
+                136
+              ],
+              "self-report": [
+                138
+              ],
+              "questionnaires": [
+                139
+              ],
+              "(Fibromyalgia": [
+                140
+              ],
+              "impact": [
+                141
+              ],
+              "questionnaire).": [
+                142
+              ],
+              "results:": [
+                144
+              ],
+              "walking": [
+                145
+              ],
+              "speed": [
+                146
+              ],
+              "significantly": [
+                148,
+                210
+              ],
+              "diminished": [
+                149
+              ],
+              "(p": [
+                150,
+                169,
+                175
+              ],
+              "<": [
+                151,
+                170,
+                176,
+                201
+              ],
+              "0.001)": [
+                152,
+                171
+              ],
+              "fm": [
+                154,
+                245
+              ],
+              "compared": [
+                157
+              ],
+              "controls,": [
+                160
+              ],
+              "probably": [
+                161
+              ],
+              "due": [
+                162
+              ],
+              "significant": [
+                164,
+                183
+              ],
+              "reductions": [
+                165
+              ],
+              "stride": [
+                167
+              ],
+              "length": [
+                168
+              ],
+              "cycle": [
+                173
+              ],
+              "frequency": [
+                174
+              ],
+              "0.001).": [
+                177
+              ],
+              "analyses": [
+                178
+              ],
+              "revealed": [
+                182,
+                228
+              ],
+              "differences": [
+                184
+              ],
+              "between": [
+                185
+              ],
+              "controls": [
+                189
+              ],
+              "medial-lateral": [
+                195
+              ],
+              "anterior-posterior": [
+                197
+              ],
+              "axes": [
+                198
+              ],
+              "(all": [
+                199
+              ],
+              "ps": [
+                200
+              ],
+              "0.01).": [
+                202
+              ],
+              "several": [
+                203
+              ],
+              "gait": [
+                206,
+                231
+              ],
+              "associated": [
+                211,
+                243
+              ],
+              "high": [
+                213
+              ],
+              "levels": [
+                214
+              ],
+              "pain,": [
+                216
+              ],
+              "depression,": [
+                217
+              ],
+              "stiffness,": [
+                218
+              ],
+              "anxiety,": [
+                219
+              ],
+              "fatigue": [
+                221
+              ],
+              "fibromyalgia.": [
+                223
+              ],
+              "conclusion:": [
+                225
+              ],
+              "our": [
+                226
+              ],
+              "data": [
+                227
+              ],
+              "both": [
+                230,
+                270
+              ],
+              "severely": [
+                235
+              ],
+              "impaired": [
+                236
+              ],
+              "fM,": [
+                238
+              ],
+              "subjective": [
+                241
+              ],
+              "complaints": [
+                242
+              ],
+              "could": [
+                246
+              ],
+              "contribute": [
+                247
+              ],
+              "disability": [
+                250
+              ],
+              "these": [
+                252
+              ],
+              "patients.": [
+                253
+              ],
+              "these": [
+                254
+              ],
+              "findings": [
+                255
+              ],
+              "suggest": [
+                256
+              ],
+              "optimal": [
+                258
+              ],
+              "rehabilitation": [
+                259
+              ],
+              "fall": [
+                261
+              ],
+              "prevention": [
+                262
+              ],
+              "require": [
+                265
+              ],
+              "comprehensive": [
+                267
+              ],
+              "assessment": [
+                268
+              ],
+              "psychological": [
+                271
+              ],
+              "responses": [
+                272
+              ],
+              "physical": [
+                276
+              ],
+              "impairments": [
+                277
+              ],
+              "during": [
+                278
+              ],
+              "postural": [
+                279
+              ],
+              "control": [
+                280
+              ],
+              "gait.": [
+                282
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 1,
+              "u": "http://journal.frontiersin.org/article/10.3389/fnhum.2017.00014/full"
+            },
+            {
+              "ty": 1,
+              "u": "https://dash.harvard.edu/handle/1/31731778"
+            },
+            {
+              "ty": 1,
+              "u": "http://discovery.ucl.ac.uk/1554706/"
+            }
+          ],
+          "vfn": "Frontiers in Human Neuroscience",
+          "v": 11,
+          "doi": "10.3389/fnhum.2017.00014",
+          "anf": [
+            {
+              "fn": "Isis da Silva",
+              "ln": "Costa",
+              "s": 1
+            },
+            {
+              "fn": "Antoni",
+              "ln": "Gamundí",
+              "s": 2
+            },
+            {
+              "fn": "José G. Vivas",
+              "ln": "Miranda",
+              "s": 3
+            },
+            {
+              "fn": "Lucas G. Souza",
+              "ln": "França",
+              "s": 4
+            },
+            {
+              "fn": "Charles Novaes De",
+              "ln": "Santana",
+              "s": 5
+            },
+            {
+              "fn": "Pedro",
+              "ln": "Montoya",
+              "s": 6
+            }
+          ],
+          "bv": "Frontiers in Human Neuroscience",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 2582352836,
+        "weight": 21956,
+        "cc": 1,
+        "ecc": 1,
+        "logprob": -21.956,
+        "w": [
+          "altered",
+          "fibromyalgia",
+          "functional",
+          "patients",
+          "performance"
+        ]
+      },
+      {
+        "ti": "fractal measures of video recorded trajectories can classify motor subtypes in parkinson s disease",
+        "l": "en",
+        "y": 2016,
+        "pt": "1",
+        "d": "2016-01-11",
+        "aa": [
+          {
+            "auId": 2715326180,
+            "auN": "thiago figueiredo",
+            "dAuN": "Thiago C. Figueiredo",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 1
+          },
+          {
+            "auId": 2618560955,
+            "auN": "jamile vivas",
+            "dAuN": "Jamile Vivas",
+            "afId": 11019714,
+            "afN": "university of a coruna",
+            "dAfN": "University of A Coruña",
+            "s": 2
+          },
+          {
+            "auId": 2112084192,
+            "auN": "norberto pena",
+            "dAuN": "Norberto Peña",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 3
+          },
+          {
+            "auId": 2133296962,
+            "auN": "jose garcia vivas miranda",
+            "dAuN": "José G.V. Miranda",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 4
+          }
+        ],
+        "f": [
+          {
+            "fId": 96835011,
+            "fn": "hurst exponent"
+          },
+          {
+            "fId": 26546657,
+            "fn": "fractal dimension"
+          },
+          {
+            "fId": 105795698,
+            "fn": "statistics"
+          },
+          {
+            "fId": 33923547,
+            "fn": "mathematics"
+          }
+        ],
+        "rId": [
+          2078206416,
+          2140978740,
+          2017628301,
+          2518538812,
+          2107026277,
+          2293190867,
+          2152193038,
+          2170613067,
+          2025514142,
+          2133100699,
+          2110662841,
+          2017032419,
+          2145665803,
+          1989153256,
+          2064996887,
+          2073630554,
+          2002577886,
+          2019182054,
+          2071890760,
+          1552105298,
+          2135989402,
+          1998100423,
+          2170262105,
+          1973203233,
+          2043779988,
+          2162741329,
+          2037297093,
+          2030261930,
+          2099237572,
+          2072797584,
+          2009837567,
+          2007957846,
+          2028815830,
+          2066610530,
+          2052467016,
+          2341760625,
+          2074517066,
+          2058867028,
+          2067907125
+        ],
+        "rwc": [
+          {
+            "rId": 2078206416
+          },
+          {
+            "rId": 2140978740
+          },
+          {
+            "rId": 2017628301
+          },
+          {
+            "rId": 2518538812
+          },
+          {
+            "rId": 2107026277
+          },
+          {
+            "rId": 2293190867
+          },
+          {
+            "rId": 2152193038
+          },
+          {
+            "rId": 2170613067
+          },
+          {
+            "rId": 2025514142
+          },
+          {
+            "rId": 2133100699
+          },
+          {
+            "rId": 2110662841
+          },
+          {
+            "rId": 2017032419
+          },
+          {
+            "rId": 2145665803
+          },
+          {
+            "rId": 1989153256
+          },
+          {
+            "rId": 2064996887
+          },
+          {
+            "rId": 2073630554
+          },
+          {
+            "rId": 2002577886
+          },
+          {
+            "rId": 2019182054
+          },
+          {
+            "rId": 2071890760
+          },
+          {
+            "rId": 1552105298
+          },
+          {
+            "rId": 2135989402
+          },
+          {
+            "rId": 1998100423
+          },
+          {
+            "rId": 2170262105
+          },
+          {
+            "rId": 1973203233
+          },
+          {
+            "rId": 2043779988
+          },
+          {
+            "rId": 2162741329
+          },
+          {
+            "rId": 2037297093
+          },
+          {
+            "rId": 2030261930
+          },
+          {
+            "rId": 2099237572
+          },
+          {
+            "rId": 2072797584
+          },
+          {
+            "rId": 2009837567
+          },
+          {
+            "rId": 2007957846
+          },
+          {
+            "rId": 2028815830
+          },
+          {
+            "rId": 2066610530
+          },
+          {
+            "rId": 2052467016
+          },
+          {
+            "rId": 2341760625
+          },
+          {
+            "rId": 2074517066
+          },
+          {
+            "rId": 2058867028
+          },
+          {
+            "rId": 2067907125
+          }
+        ],
+        "j": {
+          "jId": 61604500,
+          "jn": "physica a"
+        },
+        "extended": {
+          "dn": "Fractal measures of video-recorded trajectories can classify motor subtypes in Parkinson’s Disease",
+          "d": "Parkinson’s Disease is one of the most prevalent neurodegenerative diseases in the world and affects millions of individuals worldwide. The clinical criteria for classification of motor subtypes in Parkinson’s Disease are subjective and may be misleading when symptoms are not clearly identifiable. A video recording protocol was used to measure hand tremor of 14 individuals with Parkinson’s Disease and 7 healthy subjects. A method for motor subtype classification was proposed based on the spectral distribution of the movement and compared with the existing clinical criteria. Box-counting dimension and Hurst Exponent calculated from the trajectories were used as the relevant measures for the statistical tests. The classification based on the power-spectrum is shown to be well suited to separate patients with and without tremor from healthy subjects and could provide clinicians with a tool to aid in the diagnosis of patients in an early stage of the disease.",
+          "ia": {
+            "indexLength": 147,
+            "invertedIndex": {
+              "parkinson’s": [
+                0,
+                28,
+                56
+              ],
+              "disease": [
+                1,
+                29,
+                57
+              ],
+              "is": [
+                2,
+                110
+              ],
+              "one": [
+                3
+              ],
+              "of": [
+                4,
+                16,
+                24,
+                52,
+                75,
+                138,
+                144
+              ],
+              "the": [
+                5,
+                11,
+                72,
+                76,
+                81,
+                92,
+                97,
+                101,
+                108,
+                136,
+                145
+              ],
+              "most": [
+                6
+              ],
+              "prevalent": [
+                7
+              ],
+              "neurodegenerative": [
+                8
+              ],
+              "diseases": [
+                9
+              ],
+              "in": [
+                10,
+                27,
+                135,
+                140
+              ],
+              "world": [
+                12
+              ],
+              "and": [
+                13,
+                32,
+                58,
+                78,
+                87,
+                120,
+                126
+              ],
+              "affects": [
+                14
+              ],
+              "millions": [
+                15
+              ],
+              "individuals": [
+                17,
+                54
+              ],
+              "worldwide.": [
+                18
+              ],
+              "the": [
+                19,
+                104
+              ],
+              "clinical": [
+                20,
+                83
+              ],
+              "criteria": [
+                21
+              ],
+              "for": [
+                22,
+                64,
+                100
+              ],
+              "classification": [
+                23,
+                67,
+                105
+              ],
+              "motor": [
+                25,
+                65
+              ],
+              "subtypes": [
+                26
+              ],
+              "are": [
+                30,
+                38
+              ],
+              "subjective": [
+                31
+              ],
+              "may": [
+                33
+              ],
+              "be": [
+                34,
+                113
+              ],
+              "misleading": [
+                35
+              ],
+              "when": [
+                36
+              ],
+              "symptoms": [
+                37
+              ],
+              "not": [
+                39
+              ],
+              "clearly": [
+                40
+              ],
+              "identifiable.": [
+                41
+              ],
+              "a": [
+                42,
+                62
+              ],
+              "video": [
+                43
+              ],
+              "recording": [
+                44
+              ],
+              "protocol": [
+                45
+              ],
+              "was": [
+                46,
+                68
+              ],
+              "used": [
+                47,
+                95
+              ],
+              "to": [
+                48,
+                112,
+                116,
+                133
+              ],
+              "measure": [
+                49
+              ],
+              "hand": [
+                50
+              ],
+              "tremor": [
+                51,
+                122
+              ],
+              "14": [
+                53
+              ],
+              "with": [
+                55,
+                80,
+                119,
+                130
+              ],
+              "7": [
+                59
+              ],
+              "healthy": [
+                60,
+                124
+              ],
+              "subjects.": [
+                61
+              ],
+              "method": [
+                63
+              ],
+              "subtype": [
+                66
+              ],
+              "proposed": [
+                69
+              ],
+              "based": [
+                70,
+                106
+              ],
+              "on": [
+                71,
+                107
+              ],
+              "spectral": [
+                73
+              ],
+              "distribution": [
+                74
+              ],
+              "movement": [
+                77
+              ],
+              "compared": [
+                79
+              ],
+              "existing": [
+                82
+              ],
+              "criteria.": [
+                84
+              ],
+              "box-counting": [
+                85
+              ],
+              "dimension": [
+                86
+              ],
+              "hurst": [
+                88
+              ],
+              "exponent": [
+                89
+              ],
+              "calculated": [
+                90
+              ],
+              "from": [
+                91,
+                123
+              ],
+              "trajectories": [
+                93
+              ],
+              "were": [
+                94
+              ],
+              "as": [
+                96
+              ],
+              "relevant": [
+                98
+              ],
+              "measures": [
+                99
+              ],
+              "statistical": [
+                102
+              ],
+              "tests.": [
+                103
+              ],
+              "power-spectrum": [
+                109
+              ],
+              "shown": [
+                111
+              ],
+              "well": [
+                114
+              ],
+              "suited": [
+                115
+              ],
+              "separate": [
+                117
+              ],
+              "patients": [
+                118,
+                139
+              ],
+              "without": [
+                121
+              ],
+              "subjects": [
+                125
+              ],
+              "could": [
+                127
+              ],
+              "provide": [
+                128
+              ],
+              "clinicians": [
+                129
+              ],
+              "a": [
+                131
+              ],
+              "tool": [
+                132
+              ],
+              "aid": [
+                134
+              ],
+              "diagnosis": [
+                137
+              ],
+              "an": [
+                141
+              ],
+              "early": [
+                142
+              ],
+              "stage": [
+                143
+              ],
+              "disease.": [
+                146
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 1,
+              "u": "http://www.sciencedirect.com/science/article/pii/S0378437116302424"
+            },
+            {
+              "ty": 1,
+              "u": "http://ruc.udc.es/dspace/handle/2183/18325"
+            },
+            {
+              "ty": 1,
+              "u": "https://ideas.repec.org/a/eee/phsmap/v462y2016icp12-20.html"
+            },
+            {
+              "ty": 1,
+              "u": "http://EconPapers.repec.org/RePEc:eee:phsmap:v:462:y:2016:i:c:p:12-20"
+            }
+          ],
+          "vfn": "Physica A-statistical Mechanics and Its Applications",
+          "v": 462,
+          "fp": 12,
+          "lp": 20,
+          "doi": "10.1016/j.physa.2016.05.050",
+          "anf": [
+            {
+              "fn": "Thiago C.",
+              "ln": "Figueiredo",
+              "s": 1
+            },
+            {
+              "fn": "Jamile",
+              "ln": "Vivas",
+              "s": 2
+            },
+            {
+              "fn": "Norberto",
+              "ln": "Peña",
+              "s": 3
+            },
+            {
+              "fn": "José G.V.",
+              "ln": "Miranda",
+              "s": 4
+            }
+          ],
+          "bv": "Physica A-statistical Mechanics and Its Applications",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 2427422777,
+        "weight": 22032,
+        "cc": 2,
+        "ecc": 2,
+        "logprob": -22.032,
+        "w": [
+          "classify",
+          "disease",
+          "fractal",
+          "measures",
+          "motor",
+          "parkinson",
+          "recorded",
+          "subtypes",
+          "trajectories",
+          "video"
+        ]
+      },
+      {
+        "ti": "head movement measurement an alternative method for posturography studies",
+        "l": "en",
+        "y": 2017,
+        "pt": "1",
+        "d": "2017-01-02",
+        "aa": [
+          {
+            "auId": 2649759541,
+            "auN": "l f ciria",
+            "dAuN": "L.F. Ciria",
+            "afId": 173304897,
+            "afN": "university of granada",
+            "dAfN": "University of Granada",
+            "s": 1
+          },
+          {
+            "auId": 2128895679,
+            "auN": "miguel a munoz",
+            "dAuN": "M.A. Muñoz",
+            "afId": 173304897,
+            "afN": "university of granada",
+            "dAfN": "University of Granada",
+            "s": 2
+          },
+          {
+            "auId": 2435334010,
+            "auN": "j gea",
+            "dAuN": "J. Gea",
+            "afId": 61383054,
+            "afN": "institute of health sciences",
+            "dAfN": "Institute of Health Sciences",
+            "s": 3
+          },
+          {
+            "auId": 2669170650,
+            "auN": "n pena",
+            "dAuN": "N. Peña",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 4
+          },
+          {
+            "auId": 2133296962,
+            "auN": "jose garcia vivas miranda",
+            "dAuN": "J.G.V. Miranda",
+            "afId": 126158947,
+            "afN": "federal university of bahia",
+            "dAfN": "Federal University of Bahia",
+            "s": 5
+          },
+          {
+            "auId": 2107981011,
+            "auN": "pedro montoya",
+            "dAuN": "P. Montoya",
+            "afId": 61383054,
+            "afN": "institute of health sciences",
+            "dAfN": "Institute of Health Sciences",
+            "s": 6
+          },
+          {
+            "auId": 2126125332,
+            "auN": "jaime vila",
+            "dAuN": "J. Vila",
+            "afId": 173304897,
+            "afN": "university of granada",
+            "dAfN": "University of Granada",
+            "s": 7
+          }
+        ],
+        "f": [
+          {
+            "fId": 76542214,
+            "fn": "center of pressure"
+          },
+          {
+            "fId": 103337586,
+            "fn": "emotion"
+          },
+          {
+            "fId": 74650414,
+            "fn": "classical mechanics"
+          },
+          {
+            "fId": 31972630,
+            "fn": "computer vision"
+          },
+          {
+            "fId": 46312422,
+            "fn": "communication"
+          },
+          {
+            "fId": 44154836,
+            "fn": "simulation"
+          },
+          {
+            "fId": 15744967,
+            "fn": "psychology"
+          },
+          {
+            "fId": 121332964,
+            "fn": "physics"
+          }
+        ],
+        "rId": [
+          2167557160,
+          2037121244,
+          2475747270,
+          2044951073,
+          2600500166,
+          2105669979,
+          2057921841,
+          1968311161,
+          2047096812,
+          2139981301,
+          1996845679,
+          2616685044,
+          2157418826,
+          2030296724,
+          1965234592,
+          2134983827,
+          1996603663,
+          2130684172,
+          2135669177,
+          1995979516,
+          2067150568,
+          2037297093,
+          2058724250,
+          2091971192,
+          2141114152,
+          2067951170,
+          1997211596,
+          1998499966,
+          2167341520,
+          1993139806,
+          2078348081,
+          2164823878,
+          2066725723,
+          2081710087,
+          1978158959,
+          2004746860,
+          1964148353
+        ],
+        "rwc": [
+          {
+            "rId": 2167557160
+          },
+          {
+            "rId": 2037121244
+          },
+          {
+            "rId": 2475747270
+          },
+          {
+            "rId": 2044951073
+          },
+          {
+            "rId": 2600500166
+          },
+          {
+            "rId": 2105669979
+          },
+          {
+            "rId": 2057921841
+          },
+          {
+            "rId": 1968311161
+          },
+          {
+            "rId": 2047096812
+          },
+          {
+            "rId": 2139981301
+          },
+          {
+            "rId": 1996845679
+          },
+          {
+            "rId": 2616685044
+          },
+          {
+            "rId": 2157418826
+          },
+          {
+            "rId": 2030296724
+          },
+          {
+            "rId": 1965234592
+          },
+          {
+            "rId": 2134983827
+          },
+          {
+            "rId": 1996603663
+          },
+          {
+            "rId": 2130684172
+          },
+          {
+            "rId": 2135669177
+          },
+          {
+            "rId": 1995979516
+          },
+          {
+            "rId": 2067150568
+          },
+          {
+            "rId": 2037297093
+          },
+          {
+            "rId": 2058724250
+          },
+          {
+            "rId": 2091971192
+          },
+          {
+            "rId": 2141114152
+          },
+          {
+            "rId": 2067951170
+          },
+          {
+            "rId": 1997211596
+          },
+          {
+            "rId": 1998499966
+          },
+          {
+            "rId": 2167341520
+          },
+          {
+            "rId": 1993139806
+          },
+          {
+            "rId": 2078348081
+          },
+          {
+            "rId": 2164823878
+          },
+          {
+            "rId": 2066725723
+          },
+          {
+            "rId": 2081710087
+          },
+          {
+            "rId": 1978158959
+          },
+          {
+            "rId": 2004746860
+          },
+          {
+            "rId": 1964148353
+          }
+        ],
+        "j": {
+          "jId": 156006901,
+          "jn": "gait posture"
+        },
+        "extended": {
+          "dn": "Head movement measurement: An alternative method for posturography studies",
+          "d": "The present study evaluated the measurement of head movements as a valid method for postural emotional studies using the comparison of simultaneous recording of center of pressure (COP) sway as criterion. Thirty female students viewed a set of 12 pleasant, 12 unpleasant and 12 neutral pictures from the International Affective Picture System, repeated twice, using a block presentation procedure while standing on a force platform (AMTI AccuSway). Head movements were recorded using a webcam (©KPC139E) located in the ceiling in line with the force platform and a light-emitting diode (LED) placed on the top of the head. Open source software (CvMob 3.1) was used to process the data. High indices of correlation and coherence between head and COP sway were observed. In addition, pleasant pictures, compared with unpleasant pictures, elicited greater body sway in the anterior-posterior axis, suggesting an approach response to appetitive stimuli. Thus, the measurement of head movement can be an alternative or complementary method to recording COP for studying human postural changes.",
+          "ia": {
+            "indexLength": 167,
+            "invertedIndex": {
+              "abstract": [
+                0
+              ],
+              "the": [
+                2
+              ],
+              "present": [
+                3
+              ],
+              "study": [
+                4
+              ],
+              "evaluated": [
+                5
+              ],
+              "the": [
+                6,
+                20,
+                49,
+                79,
+                84,
+                94,
+                97,
+                108,
+                136,
+                147
+              ],
+              "measurement": [
+                7,
+                148
+              ],
+              "of": [
+                8,
+                22,
+                25,
+                27,
+                39,
+                96,
+                112,
+                149
+              ],
+              "head": [
+                9,
+                117,
+                150
+              ],
+              "movements": [
+                10,
+                70
+              ],
+              "as": [
+                11,
+                31
+              ],
+              "a": [
+                12,
+                37,
+                57,
+                64,
+                74,
+                88
+              ],
+              "valid": [
+                13
+              ],
+              "method": [
+                14,
+                158
+              ],
+              "for": [
+                15,
+                162
+              ],
+              "postural": [
+                16,
+                165
+              ],
+              "emotional": [
+                17
+              ],
+              "studies": [
+                18
+              ],
+              "using": [
+                19,
+                56,
+                73
+              ],
+              "comparison": [
+                21
+              ],
+              "simultaneous": [
+                23
+              ],
+              "recording": [
+                24,
+                160
+              ],
+              "center": [
+                26
+              ],
+              "pressure": [
+                28
+              ],
+              "(COP)": [
+                29
+              ],
+              "sway": [
+                30,
+                120,
+                134
+              ],
+              "criterion.": [
+                32
+              ],
+              "thirty": [
+                33
+              ],
+              "female": [
+                34
+              ],
+              "students": [
+                35
+              ],
+              "viewed": [
+                36
+              ],
+              "set": [
+                38
+              ],
+              "12": [
+                40,
+                42,
+                45
+              ],
+              "pleasant,": [
+                41
+              ],
+              "unpleasant": [
+                43,
+                129
+              ],
+              "and": [
+                44,
+                87,
+                114,
+                118
+              ],
+              "neutral": [
+                46
+              ],
+              "pictures": [
+                47
+              ],
+              "from": [
+                48
+              ],
+              "international": [
+                50
+              ],
+              "affective": [
+                51
+              ],
+              "picture": [
+                52
+              ],
+              "system,": [
+                53
+              ],
+              "repeated": [
+                54
+              ],
+              "twice,": [
+                55
+              ],
+              "block": [
+                58
+              ],
+              "presentation": [
+                59
+              ],
+              "procedure": [
+                60
+              ],
+              "while": [
+                61
+              ],
+              "standing": [
+                62
+              ],
+              "on": [
+                63,
+                93
+              ],
+              "force": [
+                65,
+                85
+              ],
+              "platform": [
+                66,
+                86
+              ],
+              "(AMTI": [
+                67
+              ],
+              "accuSway).": [
+                68
+              ],
+              "head": [
+                69
+              ],
+              "were": [
+                71,
+                121
+              ],
+              "recorded": [
+                72
+              ],
+              "webcam": [
+                75
+              ],
+              "(©KPC139E)": [
+                76
+              ],
+              "located": [
+                77
+              ],
+              "in": [
+                78,
+                81,
+                135
+              ],
+              "ceiling": [
+                80
+              ],
+              "line": [
+                82
+              ],
+              "with": [
+                83,
+                128
+              ],
+              "light-emitting": [
+                89
+              ],
+              "diode": [
+                90
+              ],
+              "(LED)": [
+                91
+              ],
+              "placed": [
+                92
+              ],
+              "top": [
+                95
+              ],
+              "head.": [
+                98
+              ],
+              "open": [
+                99
+              ],
+              "source": [
+                100
+              ],
+              "software": [
+                101
+              ],
+              "(CvMob": [
+                102
+              ],
+              "3.1)": [
+                103
+              ],
+              "was": [
+                104
+              ],
+              "used": [
+                105
+              ],
+              "to": [
+                106,
+                143,
+                159
+              ],
+              "process": [
+                107
+              ],
+              "data.": [
+                109
+              ],
+              "high": [
+                110
+              ],
+              "indices": [
+                111
+              ],
+              "correlation": [
+                113
+              ],
+              "coherence": [
+                115
+              ],
+              "between": [
+                116
+              ],
+              "cop": [
+                119,
+                161
+              ],
+              "observed.": [
+                122
+              ],
+              "in": [
+                123
+              ],
+              "addition,": [
+                124
+              ],
+              "pleasant": [
+                125
+              ],
+              "pictures,": [
+                126,
+                130
+              ],
+              "compared": [
+                127
+              ],
+              "elicited": [
+                131
+              ],
+              "greater": [
+                132
+              ],
+              "body": [
+                133
+              ],
+              "anterior-posterior": [
+                137
+              ],
+              "axis,": [
+                138
+              ],
+              "suggesting": [
+                139
+              ],
+              "an": [
+                140,
+                154
+              ],
+              "approach": [
+                141
+              ],
+              "response": [
+                142
+              ],
+              "appetitive": [
+                144
+              ],
+              "stimuli.": [
+                145
+              ],
+              "thus,": [
+                146
+              ],
+              "movement": [
+                151
+              ],
+              "can": [
+                152
+              ],
+              "be": [
+                153
+              ],
+              "alternative": [
+                155
+              ],
+              "or": [
+                156
+              ],
+              "complementary": [
+                157
+              ],
+              "studying": [
+                163
+              ],
+              "human": [
+                164
+              ],
+              "changes.": [
+                166
+              ]
+            }
+          },
+          "s": [
+            {
+              "ty": 1,
+              "u": "https://ncbi.nlm.nih.gov/pubmed/27888694"
+            },
+            {
+              "ty": 1,
+              "u": "http://www.sciencedirect.com/science/article/pii/S096663621630649X"
+            }
+          ],
+          "vfn": "Gait & Posture",
+          "v": 52,
+          "fp": 100,
+          "lp": 106,
+          "doi": "10.1016/j.gaitpost.2016.11.020",
+          "anf": [
+            {
+              "fn": "L.F.",
+              "ln": "Ciria",
+              "s": 1
+            },
+            {
+              "fn": "M.A.",
+              "ln": "Muñoz",
+              "s": 2
+            },
+            {
+              "fn": "J.",
+              "ln": "Gea",
+              "s": 3
+            },
+            {
+              "fn": "N.",
+              "ln": "Peña",
+              "s": 4
+            },
+            {
+              "fn": "J.G.V.",
+              "ln": "Miranda",
+              "s": 5
+            },
+            {
+              "fn": "P.",
+              "ln": "Montoya",
+              "s": 6
+            },
+            {
+              "fn": "J.",
+              "ln": "Vila",
+              "s": 7
+            }
+          ],
+          "bv": "Gait & Posture",
+          "bt": "a"
+        },
+        "ty": "0",
+        "id": 2554501842,
+        "weight": 22128,
+        "cc": 0,
+        "ecc": 0,
+        "logprob": -22.128,
+        "w": [
+          "alternative",
+          "head",
+          "measurement",
+          "movement",
+          "posturography",
+          "studies"
+        ]
+      }
+    ],
+    "m": {
+      "lt": "8",
+      "q": "papers citing papers by joao paulo bomfim cruz vieira",
+      "iq": "And(Ty='0',Join(RId,Composite(AA.AuId=2128989642)))",
+      "sm": 0
+    }
+  },
+  "journals": [
+    {
+      "lt": "Revista Brasileira De Ensino De Fisica",
+      "id": 201467560
+    },
+    {
+      "lt": "arXiv: Instrumentation and Detectors",
+      "id": 2595646510
+    }
+  ],
+  "coAuthors": [
+    {
+      "lt": "José Garcia Vivas Miranda",
+      "id": 2133296962
+    },
+    {
+      "lt": "Lucas Gabriel Souza França",
+      "id": 2108467132
+    },
+    {
+      "lt": "Bruno Cecílio Credidio",
+      "id": 278543675
+    },
+    {
+      "lt": "Marcos Cavalcanti de Sousa",
+      "id": 2116541431
+    },
+    {
+      "lt": "Norberto Peña",
+      "id": 2112084192
+    },
+    {
+      "lt": "Marcelo do Vale Cunha",
+      "id": 2130618402
+    },
+    {
+      "lt": "Lorena Peixoto Nogueira Rodriguez Martinez Salles Corrêa",
+      "id": 2130704013
+    }
+  ],
+  "lastKnownAffiliation": {
+    "lt": "Federal University of Bahia",
+    "id": 126158947
+  },
+  "publicationCount": {
+    "lt": "2",
+    "q": "papers by joao paulo bomfim cruz vieira",
+    "iq": "And(Ty='0',Composite(AA.AuId=2128989642))",
+    "sm": 0
+  },
+  "citationCount": {
+    "lt": "8",
+    "q": "papers citing papers by joao paulo bomfim cruz vieira",
+    "iq": "And(Ty='0',Join(RId,Composite(AA.AuId=2128989642)))",
+    "sm": 0
+  },
+  "estimatedCitationCount": 8,
+  "isClaimed": false,
+  "affiliations": [
+    {
+      "lt": "Federal University of Bahia",
+      "id": 126158947
+    }
+  ],
+  "serializedEntity": "{\"AuN\":\"joao paulo bomfim cruz vieira\",\"DAuN\":\"João Paulo Bomfim Cruz Vieira\",\"extended\":{\"PC\":2,\"LKA\":{\"AfId\":126158947,\"AfN\":\"Federal University of Bahia\"}},\"Ty\":\"1\",\"Id\":2128989642,\"Weight\":19224,\"CC\":8,\"ECC\":8,\"logprob\":-19.224}",
+  "entity": {
+    "auN": "joao paulo bomfim cruz vieira",
+    "dAuN": "João Paulo Bomfim Cruz Vieira",
+    "extended": {
+      "pc": 2,
+      "lka": {
+        "afId": 126158947,
+        "afN": "Federal University of Bahia"
+      }
+    },
+    "ty": "1",
+    "id": 2128989642,
+    "weight": 19224,
+    "cc": 8,
+    "ecc": 8,
+    "logprob": -19.224
+  },
+  "entityType": 1,
+  "entityTitle": "João Paulo Bomfim Cruz Vieira"
+}

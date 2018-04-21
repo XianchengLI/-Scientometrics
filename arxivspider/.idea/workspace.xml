@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6fc4704-7253-4790-9830-8d9221055319" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="listspider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="78" lean-forward="false" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="78" />
+              <folding>
+                <element signature="e#24#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnewspider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spiders/magnewspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="60" column="12" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magspider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="170" column="26" lean-forward="false" selection-start-line="170" selection-start-column="26" selection-end-line="170" selection-end-column="26" />
+              <folding>
+                <element signature="e#24#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="309" column="38" lean-forward="true" selection-start-line="309" selection-start-column="38" selection-end-line="309" selection-end-column="38" />
+              <folding>
+                <element signature="e#192#206#0" expanded="true" />
+                <marker date="1509039316000" expanded="true" signature="691:751" ph="UPDATE artic... " />
+                <marker date="1509039316000" expanded="true" signature="846:926" ph="SELECT id, t... articles" />
+                <marker date="1509039316000" expanded="true" signature="1732:1820" ph="UPDATE artic... " />
+                <marker date="1509039316000" expanded="true" signature="1918:1983" ph="SELECT id, t... articles" />
+                <marker date="1509039316000" expanded="true" signature="2011:2083" ph="SELECT id, t... articles" />
+                <marker date="1509039316000" expanded="true" signature="3320:3388" ph="UPDATE mag_a... " />
+                <marker date="1509039316000" expanded="true" signature="3483:3554" ph="SELECT mag_a... mag_authors_copy" />
+                <marker date="1509039316000" expanded="true" signature="4056:4125" ph="UPDATE mag_a... " />
+                <marker date="1509039316000" expanded="true" signature="4223:4308" ph="SELECT mag_a... mag_authors_copy" />
+                <marker date="1509039316000" expanded="true" signature="4663:4732" ph="UPDATE mag_a... " />
+                <marker date="1509039316000" expanded="true" signature="4827:4892" ph="SELECT mag_i... mag_articles_copy" />
+                <marker date="1509039316000" expanded="true" signature="5245:5317" ph="UPDATE mag_a... " />
+                <marker date="1509039316000" expanded="true" signature="5415:5494" ph="SELECT mag_i... mag_articles_copy" />
+                <marker date="1509039316000" expanded="true" signature="5848:5917" ph="UPDATE mag_j... " />
+                <marker date="1509039316000" expanded="true" signature="6024:6090" ph="SELECT MAG_n... mag_journals_copy" />
+                <marker date="1509039316000" expanded="true" signature="6024:6097" ph="SELECT mag_j... mag_journals_copy" />
+                <marker date="1509039316000" expanded="true" signature="6466:6473" ph="SELECT mag_j... mag_journals_copy" />
+                <marker date="1509039316000" expanded="true" signature="6466:6543" ph="SELECT mag_c... mag_conferences" />
+                <marker date="1509039316000" expanded="true" signature="6466:6544" ph="SELECT MAG_n... ccf_2015" />
+                <marker date="1509039316000" expanded="true" signature="6741:6812" ph="SELECT mag_j... mag_journals" />
+                <marker date="1509039316000" expanded="true" signature="7165:7239" ph="UPDATE raw_a... " />
+                <marker date="1509039316000" expanded="true" signature="7325:7398" ph="SELECT raw_a... raw_aff" />
+                <marker date="1509039316000" expanded="true" signature="10496:10714" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="11033:11212" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="11606:11892" ph="INSERT INTO arxiv_article.dblp_articles... " />
+                <marker date="1509039316000" expanded="true" signature="12258:12330" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="12508:12929" ph="INSERT INTO arxiv_article.mag_articles... " />
+                <marker date="1509039316000" expanded="true" signature="13857:14055" ph="INSERT INTO arxiv_article.mag_authors... " />
+                <marker date="1509039316000" expanded="true" signature="14309:14536" ph="INSERT INTO arxiv_article.mag_authors_to_update... " />
+                <marker date="1509039316000" expanded="true" signature="14860:15004" ph="INSERT INTO arxiv_article.mag2authors... " />
+                <marker date="1509039316000" expanded="true" signature="15204:15319" ph="INSERT INTO arxiv_article.mag_fields... " />
+                <marker date="1509039316000" expanded="true" signature="15533:15656" ph="INSERT INTO arxiv_article.mag2fields... " />
+                <marker date="1509039316000" expanded="true" signature="15905:16019" ph="INSERT INTO arxiv_article.mag_authors... " />
+                <marker date="1509039316000" expanded="true" signature="16223:16337" ph="INSERT INTO arxiv_article.mag_author2coauthors... " />
+                <marker date="1509039316000" expanded="true" signature="16561:16659" ph="INSERT INTO arxiv_article.mag_fields... " />
+                <marker date="1509039316000" expanded="true" signature="16848:16952" ph="INSERT INTO arxiv_article.mag_author2fields... " />
+                <marker date="1509039316000" expanded="true" signature="17128:17236" ph="INSERT INTO arxiv_article.mag_journals... " />
+                <marker date="1509039316000" expanded="true" signature="17433:17541" ph="INSERT INTO arxiv_article.mag_author2journals... " />
+                <marker date="1509039316000" expanded="true" signature="17730:17847" ph="INSERT INTO arxiv_article.mag_conferences... " />
+                <marker date="1509039316000" expanded="true" signature="18056:18170" ph="INSERT INTO arxiv_article.mag_author2conferences... " />
+                <marker date="1509039316000" expanded="true" signature="18303:18433" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="18633:18768" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="19063:19174" ph="INSERT INTO arxiv_article.mag_fields... " />
+                <marker date="1509039316000" expanded="true" signature="19363:19496" ph="INSERT INTO arxiv_article.mag_conference2fields... " />
+                <marker date="1509039316000" expanded="true" signature="19624:19797" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="20031:20119" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="20352:20463" ph="INSERT INTO arxiv_article.mag_fields... " />
+                <marker date="1509039316000" expanded="true" signature="20652:20779" ph="INSERT INTO arxiv_article.mag_conference2fields... " />
+                <marker date="1509039316000" expanded="true" signature="20904:21040" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="21255:21337" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="21516:21650" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="21875:21947" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="22104:22554" ph="INSERT INTO arxiv_article.mag_articles_all... " />
+                <marker date="1509039316000" expanded="true" signature="23193:23333" ph="INSERT INTO arxiv_article.mag2authors_all... " />
+                <marker date="1509039316000" expanded="true" signature="23522:23633" ph="INSERT INTO arxiv_article.mag_fields... " />
+                <marker date="1509039316000" expanded="true" signature="23823:23946" ph="INSERT INTO arxiv_article.mag2fields_all... " />
+                <marker date="1509039316000" expanded="true" signature="24118:24280" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="24494:24573" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="24494:24574" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="24681:24756" ph="UPDATE arxiv... " />
+                <marker date="1509039316000" expanded="true" signature="24913:25132" ph="INSERT INTO arxiv_article.mag_conferences... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dblpspider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spiders/dblpspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5820">
+              <caret line="388" column="33" lean-forward="false" selection-start-line="388" selection-start-column="33" selection-end-line="388" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jsonresponse['results']</find>
+      <find>du</find>
+      <find>abs</find>
+      <find>dou</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>article</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spiders/listspider.py" />
+        <option value="$PROJECT_DIR$/spiders/ccfspider.py" />
+        <option value="$PROJECT_DIR$/spiders/magconferencespider.py" />
+        <option value="$PROJECT_DIR$/spiders/magjournalspider.py" />
+        <option value="$PROJECT_DIR$/spiders/magauthorspider.py" />
+        <option value="$PROJECT_DIR$/items.py" />
+        <option value="$PROJECT_DIR$/spiders/maghindexspider.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/spiders/magspider.py" />
+        <option value="$PROJECT_DIR$/pipelines.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1600" />
+    <option name="height" value="794" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arxivspider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arxivspider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arxivspider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arxivspider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spiders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="arxivspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="arxivspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="arxivspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="arxivspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="arxivspider" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="arxivspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="arxivspider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6fc4704-7253-4790-9830-8d9221055319" name="Default" comment="" />
+      <created>1500820243051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500820243051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1600" height="794" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.218125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.218125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spiders/magconferencespider.py</url>
+          <line>1</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="123" column="12" lean-forward="false" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="123" column="12" lean-forward="false" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magauthorspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="123" column="12" lean-forward="false" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magauthorspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="123" column="12" lean-forward="false" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magauthorspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="123" column="12" lean-forward="false" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magauthorspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="99" column="43" lean-forward="true" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="89" lean-forward="false" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="89" lean-forward="true" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/ccfspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/articlespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="76" lean-forward="false" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magjournalspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="75" column="50" lean-forward="false" selection-start-line="75" selection-start-column="50" selection-end-line="75" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="100" column="15" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/wikispider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magconferencespider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="64" column="52" lean-forward="true" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/maghindexspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magauthorspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/listspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="78" lean-forward="false" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="78" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/dblpspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5820">
+          <caret line="388" column="33" lean-forward="false" selection-start-line="388" selection-start-column="33" selection-end-line="388" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="170" column="26" lean-forward="false" selection-start-line="170" selection-start-column="26" selection-end-line="170" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiders/magnewspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="60" column="12" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="309" column="38" lean-forward="true" selection-start-line="309" selection-start-column="38" selection-end-line="309" selection-end-column="38" />
+          <folding>
+            <element signature="e#192#206#0" expanded="true" />
+            <marker date="1509039316000" expanded="true" signature="691:751" ph="UPDATE artic... " />
+            <marker date="1509039316000" expanded="true" signature="846:926" ph="SELECT id, t... articles" />
+            <marker date="1509039316000" expanded="true" signature="1732:1820" ph="UPDATE artic... " />
+            <marker date="1509039316000" expanded="true" signature="1918:1983" ph="SELECT id, t... articles" />
+            <marker date="1509039316000" expanded="true" signature="2011:2083" ph="SELECT id, t... articles" />
+            <marker date="1509039316000" expanded="true" signature="3320:3388" ph="UPDATE mag_a... " />
+            <marker date="1509039316000" expanded="true" signature="3483:3554" ph="SELECT mag_a... mag_authors_copy" />
+            <marker date="1509039316000" expanded="true" signature="4056:4125" ph="UPDATE mag_a... " />
+            <marker date="1509039316000" expanded="true" signature="4223:4308" ph="SELECT mag_a... mag_authors_copy" />
+            <marker date="1509039316000" expanded="true" signature="4663:4732" ph="UPDATE mag_a... " />
+            <marker date="1509039316000" expanded="true" signature="4827:4892" ph="SELECT mag_i... mag_articles_copy" />
+            <marker date="1509039316000" expanded="true" signature="5245:5317" ph="UPDATE mag_a... " />
+            <marker date="1509039316000" expanded="true" signature="5415:5494" ph="SELECT mag_i... mag_articles_copy" />
+            <marker date="1509039316000" expanded="true" signature="5848:5917" ph="UPDATE mag_j... " />
+            <marker date="1509039316000" expanded="true" signature="6024:6090" ph="SELECT MAG_n... mag_journals_copy" />
+            <marker date="1509039316000" expanded="true" signature="6024:6097" ph="SELECT mag_j... mag_journals_copy" />
+            <marker date="1509039316000" expanded="true" signature="6466:6473" ph="SELECT mag_j... mag_journals_copy" />
+            <marker date="1509039316000" expanded="true" signature="6466:6543" ph="SELECT mag_c... mag_conferences" />
+            <marker date="1509039316000" expanded="true" signature="6466:6544" ph="SELECT MAG_n... ccf_2015" />
+            <marker date="1509039316000" expanded="true" signature="6741:6812" ph="SELECT mag_j... mag_journals" />
+            <marker date="1509039316000" expanded="true" signature="7165:7239" ph="UPDATE raw_a... " />
+            <marker date="1509039316000" expanded="true" signature="7325:7398" ph="SELECT raw_a... raw_aff" />
+            <marker date="1509039316000" expanded="true" signature="10496:10714" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="11033:11212" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="11606:11892" ph="INSERT INTO arxiv_article.dblp_articles... " />
+            <marker date="1509039316000" expanded="true" signature="12258:12330" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="12508:12929" ph="INSERT INTO arxiv_article.mag_articles... " />
+            <marker date="1509039316000" expanded="true" signature="13857:14055" ph="INSERT INTO arxiv_article.mag_authors... " />
+            <marker date="1509039316000" expanded="true" signature="14309:14536" ph="INSERT INTO arxiv_article.mag_authors_to_update... " />
+            <marker date="1509039316000" expanded="true" signature="14860:15004" ph="INSERT INTO arxiv_article.mag2authors... " />
+            <marker date="1509039316000" expanded="true" signature="15204:15319" ph="INSERT INTO arxiv_article.mag_fields... " />
+            <marker date="1509039316000" expanded="true" signature="15533:15656" ph="INSERT INTO arxiv_article.mag2fields... " />
+            <marker date="1509039316000" expanded="true" signature="15905:16019" ph="INSERT INTO arxiv_article.mag_authors... " />
+            <marker date="1509039316000" expanded="true" signature="16223:16337" ph="INSERT INTO arxiv_article.mag_author2coauthors... " />
+            <marker date="1509039316000" expanded="true" signature="16561:16659" ph="INSERT INTO arxiv_article.mag_fields... " />
+            <marker date="1509039316000" expanded="true" signature="16848:16952" ph="INSERT INTO arxiv_article.mag_author2fields... " />
+            <marker date="1509039316000" expanded="true" signature="17128:17236" ph="INSERT INTO arxiv_article.mag_journals... " />
+            <marker date="1509039316000" expanded="true" signature="17433:17541" ph="INSERT INTO arxiv_article.mag_author2journals... " />
+            <marker date="1509039316000" expanded="true" signature="17730:17847" ph="INSERT INTO arxiv_article.mag_conferences... " />
+            <marker date="1509039316000" expanded="true" signature="18056:18170" ph="INSERT INTO arxiv_article.mag_author2conferences... " />
+            <marker date="1509039316000" expanded="true" signature="18303:18433" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="18633:18768" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="19063:19174" ph="INSERT INTO arxiv_article.mag_fields... " />
+            <marker date="1509039316000" expanded="true" signature="19363:19496" ph="INSERT INTO arxiv_article.mag_conference2fields... " />
+            <marker date="1509039316000" expanded="true" signature="19624:19797" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="20031:20119" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="20352:20463" ph="INSERT INTO arxiv_article.mag_fields... " />
+            <marker date="1509039316000" expanded="true" signature="20652:20779" ph="INSERT INTO arxiv_article.mag_conference2fields... " />
+            <marker date="1509039316000" expanded="true" signature="20904:21040" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="21255:21337" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="21516:21650" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="21875:21947" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="22104:22554" ph="INSERT INTO arxiv_article.mag_articles_all... " />
+            <marker date="1509039316000" expanded="true" signature="23193:23333" ph="INSERT INTO arxiv_article.mag2authors_all... " />
+            <marker date="1509039316000" expanded="true" signature="23522:23633" ph="INSERT INTO arxiv_article.mag_fields... " />
+            <marker date="1509039316000" expanded="true" signature="23823:23946" ph="INSERT INTO arxiv_article.mag2fields_all... " />
+            <marker date="1509039316000" expanded="true" signature="24118:24280" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="24494:24573" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="24494:24574" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="24681:24756" ph="UPDATE arxiv... " />
+            <marker date="1509039316000" expanded="true" signature="24913:25132" ph="INSERT INTO arxiv_article.mag_conferences... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
